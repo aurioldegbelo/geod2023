@@ -4,9 +4,8 @@
 
 # For error of installation due to privileges, see https://stackoverflow.com/questions/66322049/could-not-install-packages-due-to-an-oserror-winerror-2-no-such-file-or-direc
 
-
-import openai
 import my_api_keys
+import openai
 
 openai.api_key = my_api_keys.my_open_ai_key
 
