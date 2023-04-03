@@ -2,7 +2,8 @@
 # To see how to create a virtual environment, check https://python.land/virtual-environments/virtualenv 
 # python -m venv my-envi, and the next steps, see https://stackoverflow.com/a/74825209
 # For error of installation due to privileges, see https://stackoverflow.com/questions/66322049/could-not-install-packages-due-to-an-oserror-winerror-2-no-such-file-or-direc
-# For ginignore 
+# For gitignore, see https://github.com/github/gitignore/blob/main/Python.gitignore
+
 import my_api_keys
 import openai
 
