@@ -1,4 +1,10 @@
-# code adapted from https://github.com/AIAdvantage/chatgpt-api-youtube
+# Code adapted from https://github.com/AIAdvantage/chatgpt-api-youtube
+# To see how to create a virtual environment, check https://python.land/virtual-environments/virtualenv 
+# python -m venv my-envi
+
+# For error of installation due to privileges, see https://stackoverflow.com/questions/66322049/could-not-install-packages-due-to-an-oserror-winerror-2-no-such-file-or-direc
+
+
 import openai
 import my_api_keys
 
@@ -9,6 +15,3 @@ completion = openai.ChatCompletion.create(model="gpt-3.5-turbo",
                                             "content": "Tell me something about Dresden"}])
 print(completion.choices[0].message.content)
 
-
-
-#print ("The API key is", my_api_keys.example_key)
