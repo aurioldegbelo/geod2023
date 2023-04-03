@@ -5,10 +5,10 @@
 # For gitignore, see https://github.com/github/gitignore/blob/main/Python.gitignore
 # If VS Code shows issues about execution policies, you may need to change the execution policies settings in the powershell, see https://www.sharepointdiary.com/2014/03/fix-for-powershell-script-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system.html
 
-import my_api_keys
+import api_keys
 import openai
 
-openai.api_key = my_api_keys.my_open_ai_key
+openai.api_key = api_keys.my_open_ai_key
 
 completion = openai.ChatCompletion.create(model="gpt-3.5-turbo", 
                                           messages=[{"role": "user", 
