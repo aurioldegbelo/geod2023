@@ -3,6 +3,7 @@
 # python -m venv my-envi, and the next steps, see https://stackoverflow.com/a/74825209
 # For error of installation due to privileges, see https://stackoverflow.com/questions/66322049/could-not-install-packages-due-to-an-oserror-winerror-2-no-such-file-or-direc
 # For gitignore, see https://github.com/github/gitignore/blob/main/Python.gitignore
+# If VS Code shows issues about execution policies, you may need to change the execution policies settings in the powershell, see https://www.sharepointdiary.com/2014/03/fix-for-powershell-script-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system.html
 
 import my_api_keys
 import openai
