@@ -1,3 +1,3 @@
 import my_api_keys
 
-print ("The API key is", my_api_keys.open_ai_key)
+print ("The API key is", my_api_keys.example_key)
