@@ -9,7 +9,7 @@
 # The code for this bot is taken from https://www.haihai.ai/chatgpt-api/
 # Credits also to https://www.youtube.com/watch?v=pGOyw_M1mNE for the nice intro video to chatbot building
 import my_api_keys
-import openai
+import openai # open ai documentation at https://platform.openai.com/docs/introduction/overview
 
 openai.api_key = my_api_keys.my_open_ai_key
 
