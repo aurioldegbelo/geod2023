@@ -9,25 +9,26 @@
 
 import my_api_keys
 import openai # open ai documentation at https://platform.openai.com/docs/introduction/overview
-import gradio
+#import gradio
 
 # documentation of langchain at https://github.com/hwchase17/langchain
 
 ## Working with llama_index = playing around with data augmentation
 
 # Step 1: load the new data
-# documentation of llama_index at 
+# documentation of llama_index at https://gpt-index.readthedocs.io/en/latest/
 # data loaders at https://llamahub.ai/
 from llama_index import SimpleDirectoryReader
-documents = SimpleDirectoryReader('data').load_data()
-
+documents = SimpleDirectoryReader('./data').load_data()
 
 
 # Step 2: Build a CUSTOM llm index: code from https://github.com/wombyz/custom-knowledge-chatbot/tree/main/custom-knowledge-chatbot
 from llama_index import LLMPredictor, GPTSimpleVectorIndex, PromptHelper
+from langchain.llms import OpenAI
 
 # define LLM
-llm_predictor = LLMPredictor(llm=OpenAI(temperature=0.1, model_name="text-davinci-002"))
+llm_predictor = LLMPredictor(llm=OpenAI(temperature=0.1, model_name="text-davinci-002",
+                                         openai_api_key=my_api_keys.my_open_ai_key)) # alternative model: gpt-3.5-turbo	
 
 # define prompt helper
 # set maximum input size
@@ -36,6 +37,7 @@ max_input_size = 4096
 num_output = 256
 # set maximum chunk overlap
 max_chunk_overlap = 20
+
 prompt_helper = PromptHelper(max_input_size, num_output, max_chunk_overlap)
 
 custom_LLM_index = GPTSimpleVectorIndex(
@@ -48,7 +50,7 @@ print(response)
 
 
 
-
+'''
 messages = [{"role": "system", "content": "You are an assistant that specializes in geographic question answering"}]
 
 def CustomChatGPT(user_input):
@@ -65,3 +67,4 @@ demo = gradio.Interface(fn=CustomChatGPT, inputs = "text", outputs = "text", tit
 
 demo.launch(share=True) # you may need to customize your firewall settings for this to work 
 #demo.launch()
+'''
