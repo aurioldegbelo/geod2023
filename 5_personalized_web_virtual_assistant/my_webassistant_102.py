@@ -24,10 +24,9 @@ SimpleDirectoryReader = download_loader("SimpleDirectoryReader")
 loader = SimpleDirectoryReader('./data', recursive=True, exclude_hidden=True)
 documents = loader.load_data()
 
-index = GPTSimpleVectorIndex.from_documents(documents)
-index.query('What are these files about?')
+#index = GPTSimpleVectorIndex.from_documents(documents)
+#index.query('What are these files about?')
 
-'''
 
 # Step 2: Build a CUSTOM llm index: code from https://github.com/wombyz/custom-knowledge-chatbot/tree/main/custom-knowledge-chatbot
 from llama_index import LLMPredictor, GPTSimpleVectorIndex, PromptHelper
@@ -47,14 +46,14 @@ max_chunk_overlap = 20
 
 prompt_helper = PromptHelper(max_input_size, num_output, max_chunk_overlap)
 
-custom_LLM_index = GPTSimpleVectorIndex(
+custom_LLM_index = GPTSimpleVectorIndex.from_documents(
     documents, llm_predictor=llm_predictor, prompt_helper=prompt_helper
 )
 
 #Step 3: reuse the custom index to get some answers
 response = custom_LLM_index.query("What do you think of Facebook's LLaMa?")
 print(response)
-'''
+
 
 
 '''
