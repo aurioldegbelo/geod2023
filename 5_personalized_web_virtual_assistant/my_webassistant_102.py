@@ -13,6 +13,7 @@ import openai # open ai documentation at https://platform.openai.com/docs/introd
 
 from llama_index import (
     GPTKeywordTableIndex,
+    GPTSimpleVectorIndex,
     SimpleDirectoryReader,
     LLMPredictor,
     ServiceContext, 
@@ -35,9 +36,9 @@ os.environ['OPENAI_API_KEY'] = my_api_keys.my_open_ai_key
 
 SimpleDirectoryReader = download_loader("SimpleDirectoryReader")
 # Take all the files in the data folder, see https://llamahub.ai/l/file
-loader = SimpleDirectoryReader('data', recursive=True, exclude_hidden=True)
+loader = SimpleDirectoryReader('./data', recursive=True, exclude_hidden=True)
 documents = loader.load_data()
-
+#print(documents)
 
 ## Step 2: Build a CUSTOM llm index: code adapted from https://github.com/wombyz/custom-knowledge-chatbot/tree/main/custom-knowledge-chatbot
 # Official documentation: https://gpt-index.readthedocs.io/en/latest/how_to/customization/custom_llms.html
@@ -52,14 +53,13 @@ max_chunk_overlap = 20
 prompt_helper = PromptHelper(max_input_size, num_output, max_chunk_overlap)
 
 # define LLM
-llm_predictor = LLMPredictor(llm=OpenAI(temperature=0, model_name="text-davinci-002"))
+llm_predictor = LLMPredictor(llm=OpenAI(temperature=0.5, model_name="text-davinci-002"))
 service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor, prompt_helper=prompt_helper)
 
 # build index
-custom_index = GPTKeywordTableIndex.from_documents(documents, service_context=service_context)
-
+custom_index = GPTSimpleVectorIndex.from_documents(documents, service_context=service_context)
 
 ## Step 3: reuse the custom index to get some answers
 # get response from query
 response = custom_index.query("What do you think of Facebook's LLaMa?")
-#print(response)
+print(response)
