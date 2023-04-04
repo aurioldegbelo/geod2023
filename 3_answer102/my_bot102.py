@@ -5,15 +5,25 @@
 # For gitignore, see https://github.com/github/gitignore/blob/main/Python.gitignore
 # If VS Code shows issues about execution policies, you may need to change the execution policies settings in the powershell, see https://www.sharepointdiary.com/2014/03/fix-for-powershell-script-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system.html
 
+
+# The code for this bot is taken from https://www.haihai.ai/chatgpt-api/
+# Credits also to https://www.youtube.com/watch?v=pGOyw_M1mNE for the nice intro video to chatbot building
 import my_api_keys
 import openai
 
-print("This is a new function")
-
 openai.api_key = my_api_keys.my_open_ai_key
 
-completion = openai.ChatCompletion.create(model="gpt-3.5-turbo", 
-                                          messages=[{"role": "user", 
-                                            "content": "Tell me something about Dresden"}])
-print(completion.choices[0].message.content)
+messages = []
+system_msg = input("What type of chatbot would you like to create? ")
+messages.append({"role": "system", "content": system_msg})
 
+print("Say hello to your new assistant!")
+while input != "quit()": 
+    message = input()
+    messages.append({"role": "user", "content": message})
+    response = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo",
+        messages=messages)
+    reply = response["choices"][0]["message"]["content"]
+    messages.append({"role": "assistant", "content": reply})
+    print("\n" + reply + "\n")
