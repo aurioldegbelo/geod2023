@@ -40,6 +40,15 @@ loader = SimpleDirectoryReader('./data', recursive=True, exclude_hidden=True)
 documents = loader.load_data()
 #print(documents)
 
+
+# Simple test without customization
+my_question = "What do you think of Facebook's LLaMa?"
+index = GPTSimpleVectorIndex.from_documents(documents)
+response = index.query(my_question)
+print(response)
+
+
+
 ## Step 2: Build a CUSTOM llm index: code adapted from https://github.com/wombyz/custom-knowledge-chatbot/tree/main/custom-knowledge-chatbot
 # Official documentation: https://gpt-index.readthedocs.io/en/latest/how_to/customization/custom_llms.html
 
@@ -59,7 +68,9 @@ service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor, prom
 # build index
 custom_index = GPTSimpleVectorIndex.from_documents(documents, service_context=service_context)
 
+
+
 ## Step 3: reuse the custom index to get some answers
 # get response from query
-response = custom_index.query("What do you think of Facebook's LLaMa?")
+response = custom_index.query(my_question)
 print(response)
