@@ -40,14 +40,22 @@ loader = SimpleDirectoryReader('./data', recursive=True, exclude_hidden=True)
 documents = loader.load_data()
 #print(documents)
 
+my_question = "Which countries did Cyclone Freddy affect?"
 
+
+'''
 # Simple test without customization
-my_question = "What do you think of Facebook's LLaMa?"
 index = GPTSimpleVectorIndex.from_documents(documents)
 response = index.query(my_question)
 print(response)
+'''
 
-
+WikipediaReader = download_loader("WikipediaReader")
+loader = WikipediaReader()
+wikidocs = loader.load_data(pages=['Cyclone Freddy'])
+index = GPTSimpleVectorIndex.from_documents(wikidocs)
+response = index.query(my_question)
+print(response)
 
 ## Step 2: Build a CUSTOM llm index: code adapted from https://github.com/wombyz/custom-knowledge-chatbot/tree/main/custom-knowledge-chatbot
 # Official documentation: https://gpt-index.readthedocs.io/en/latest/how_to/customization/custom_llms.html
@@ -67,7 +75,6 @@ service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor, prom
 
 # build index
 custom_index = GPTSimpleVectorIndex.from_documents(documents, service_context=service_context)
-
 
 
 ## Step 3: reuse the custom index to get some answers
