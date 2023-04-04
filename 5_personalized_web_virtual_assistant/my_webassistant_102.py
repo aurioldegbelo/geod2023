@@ -6,13 +6,47 @@
 # If VS Code shows issues about execution policies, you may need to change the execution policies settings in the powershell, see https://www.sharepointdiary.com/2014/03/fix-for-powershell-script-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system.html
 
 
-# The code for this bot is taken from https://www.haihai.ai/chatgpt-api/
-# Credits also to https://www.youtube.com/watch?v=pGOyw_M1mNE for the nice intro video to chatbot building
+
 import my_api_keys
 import openai # open ai documentation at https://platform.openai.com/docs/introduction/overview
 import gradio
 
-openai.api_key = my_api_keys.my_open_ai_key
+# documentation of langchain at https://github.com/hwchase17/langchain
+
+## Working with llama_index = playing around with data augmentation
+
+# Step 1: load the new data
+# documentation of llama_index at 
+# data loaders at https://llamahub.ai/
+from llama_index import SimpleDirectoryReader
+documents = SimpleDirectoryReader('data').load_data()
+
+
+
+# Step 2: Build a CUSTOM llm index: code from https://github.com/wombyz/custom-knowledge-chatbot/tree/main/custom-knowledge-chatbot
+from llama_index import LLMPredictor, GPTSimpleVectorIndex, PromptHelper
+
+# define LLM
+llm_predictor = LLMPredictor(llm=OpenAI(temperature=0.1, model_name="text-davinci-002"))
+
+# define prompt helper
+# set maximum input size
+max_input_size = 4096
+# set number of output tokens
+num_output = 256
+# set maximum chunk overlap
+max_chunk_overlap = 20
+prompt_helper = PromptHelper(max_input_size, num_output, max_chunk_overlap)
+
+custom_LLM_index = GPTSimpleVectorIndex(
+    documents, llm_predictor=llm_predictor, prompt_helper=prompt_helper
+)
+
+#Step 3: reuse the custom index to get some answers
+response = custom_LLM_index.query("What do you think of Facebook's LLaMa?")
+print(response)
+
+
 
 
 messages = [{"role": "system", "content": "You are an assistant that specializes in geographic question answering"}]
