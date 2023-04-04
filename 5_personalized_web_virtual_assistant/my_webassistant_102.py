@@ -18,9 +18,16 @@ import openai # open ai documentation at https://platform.openai.com/docs/introd
 # Step 1: load the new data
 # documentation of llama_index at https://gpt-index.readthedocs.io/en/latest/
 # data loaders at https://llamahub.ai/
-from llama_index import SimpleDirectoryReader
-documents = SimpleDirectoryReader('./data').load_data()
+from llama_index import download_loader, GPTSimpleVectorIndex
+SimpleDirectoryReader = download_loader("SimpleDirectoryReader")
+# Take all the files in the data folder, see https://llamahub.ai/l/file
+loader = SimpleDirectoryReader('./data', recursive=True, exclude_hidden=True)
+documents = loader.load_data()
 
+index = GPTSimpleVectorIndex.from_documents(documents)
+index.query('What are these files about?')
+
+'''
 
 # Step 2: Build a CUSTOM llm index: code from https://github.com/wombyz/custom-knowledge-chatbot/tree/main/custom-knowledge-chatbot
 from llama_index import LLMPredictor, GPTSimpleVectorIndex, PromptHelper
@@ -47,7 +54,7 @@ custom_LLM_index = GPTSimpleVectorIndex(
 #Step 3: reuse the custom index to get some answers
 response = custom_LLM_index.query("What do you think of Facebook's LLaMa?")
 print(response)
-
+'''
 
 
 '''
