@@ -10,20 +10,24 @@
 # Credits also to https://www.youtube.com/watch?v=pGOyw_M1mNE for the nice intro video to chatbot building
 import my_api_keys
 import openai # open ai documentation at https://platform.openai.com/docs/introduction/overview
+import gradio
 
 openai.api_key = my_api_keys.my_open_ai_key
 
-messages = []
-system_msg = input("\n What type of chatbot would you like to create?\n")
-messages.append({"role": "system", "content": system_msg})
 
-print("\n Say hello to your new assistant!")
-while input != "quit()": 
-    message = input()
-    messages.append({"role": "user", "content": message})
+messages = [{"role": "system", "content": "You are an assistant that specializes in geographic question answering"}]
+
+def CustomChatGPT(user_input):
+    messages.append({"role": "user", "content": user_input})
     response = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
-        messages=messages)
-    reply = response["choices"][0]["message"]["content"]
-    messages.append({"role": "assistant", "content": reply})
-    print("\n " + reply + "\n")
+        model = "gpt-3.5-turbo",
+        messages = messages
+    )
+    ChatGPT_reply = response["choices"][0]["message"]["content"]
+    messages.append({"role": "assistant", "content": ChatGPT_reply})
+    return ChatGPT_reply
+
+demo = gradio.Interface(fn=CustomChatGPT, inputs = "text", outputs = "text", title = "Digital Geo Question Answering")
+
+demo.launch(share=True) # you may need to customize your firewall settings for this to work 
+#demo.launch()
