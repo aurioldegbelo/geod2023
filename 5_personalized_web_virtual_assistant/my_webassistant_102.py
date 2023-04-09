@@ -53,8 +53,8 @@ print(response)
 WikipediaReader = download_loader("WikipediaReader")
 loader = WikipediaReader()
 wikidocs = loader.load_data(pages=['Cyclone Freddy'])
-index = GPTSimpleVectorIndex.from_documents(wikidocs)
-response = index.query(my_question)
+wikipedia_index = GPTSimpleVectorIndex.from_documents(wikidocs)
+response = wikipedia_index.query(my_question)
 print(response)
 
 ## Step 2: Build a CUSTOM llm index: code adapted from https://github.com/wombyz/custom-knowledge-chatbot/tree/main/custom-knowledge-chatbot
