@@ -22,7 +22,9 @@ from llama_index import (
 )
 
 # documentation of langchain at https://github.com/hwchase17/langchain
-from langchain import OpenAI
+#from langchain import OpenAI
+
+from langchain.chat_models import ChatOpenAI
 
 os.environ['OPENAI_API_KEY'] = my_api_keys.my_open_ai_key
 
@@ -70,7 +72,7 @@ max_chunk_overlap = 20
 prompt_helper = PromptHelper(max_input_size, num_output, max_chunk_overlap)
 
 # define LLM
-llm_predictor = LLMPredictor(llm=OpenAI(temperature=0.5, model_name="text-davinci-002"))
+llm_predictor = LLMPredictor(llm=ChatOpenAI(temperature=0.5, model_name="text-davinci-002")) #"gpt-3.5-turbo text-davinci-002"
 service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor, prompt_helper=prompt_helper)
 
 # build index
