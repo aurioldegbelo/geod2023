@@ -32,9 +32,8 @@
   
     <script>
     "use strict"; 
-   // input_area = document.getElementById("input-query")
     let submit_button =  document.getElementById("submit-button")
-    let   display_area = document.getElementById("result-display")
+    let display_area = document.getElementById("result-display")
     let metadata_area = document.getElementById("metadata-display")
     let toponym_area = document.getElementById("toponym-display")
 
@@ -51,6 +50,7 @@
         }
         else
         {
+            // use the gradio api to get answers related to the document
             console.log("Processing the query...", query)
             let gpt_api = "https://aurioldegbelo-gpt-space.hf.space/run/predict"
             const response = await fetch(gpt_api, 
@@ -72,18 +72,18 @@
 
             display_area.value = answer.data[0].toString()
 
+            // show the metadata about the answer
             let metadata = `Duration: ${answer.duration}s; Average duration: ${answer.average_duration}s; is_generating: ${answer.is_generating}  `
             metadata_area.innerHTML = metadata
             metadata_area.hidden = false
 
+            // use the gradio api to get named entities
             console.log("Performing the named entity recognition...")
 
             let spacy_api = "https://aurioldegbelo-ner-space.hf.space/run/predict"
 
             let sentence = answer.data[0].toString()
             
-            //sentence = "Angela Mar, Bill Clinton Berlin, Madrid we have an incredible text, Münster"
-
             const response_toponyms = await fetch(spacy_api, 
             {
                 method: "POST",
@@ -103,6 +103,7 @@
             }
             else
             {
+                // show only the answer, no metadata
                 toponym_area.innerHTML = `Geopolitical entities or Location in the text: ${geographical_entities.data[0].toString()}`
 
             }
@@ -112,26 +113,6 @@
         }
 
     })
-
-    async function retrieve_toponym (sentence, api_url)
-    {
-
-        const response = await fetch(api_url, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({
-                data: [sentence]
-            })
-        });
-
-        const data = await response.json()
-
-        console.log(data)
-
-        toponyms = data 
-
-        return toponyms
-    }
   
     </script>
 
