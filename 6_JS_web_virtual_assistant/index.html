@@ -41,21 +41,30 @@
         }
         else
         {
+            console.log("Processing the query...", query)
             api_url = "https://aurioldegbelo-testspace.hf.space/run/predict"
             const response = await fetch(api_url, 
             {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
-                    data: [
-                        "what is this document about",
-                    ]
+                    data: [query]
                 })
             });
-            const data = await response.json()
+            const answer = await response.json()
 
-            display_area.value = JSON.stringify(data)
-            console.log()
+            console.log(answer)
+
+            console.log(answer.data[0].toString())
+            console.log(answer.duration)
+            console.log(answer.average_duration)
+            console.log(answer.is_generating)
+
+
+
+
+            display_area.value = JSON.stringify(answer)
+
 
         }
 
