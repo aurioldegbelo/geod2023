@@ -31,18 +31,18 @@
 
   
     <script>
-
+    "use strict"; 
    // input_area = document.getElementById("input-query")
-    submit_button =  document.getElementById("submit-button")
-    display_area = document.getElementById("result-display")
-    metadata_area = document.getElementById("metadata-display")
-    toponym_area = document.getElementById("toponym-display")
+    let submit_button =  document.getElementById("submit-button")
+    let   display_area = document.getElementById("result-display")
+    let metadata_area = document.getElementById("metadata-display")
+    let toponym_area = document.getElementById("toponym-display")
 
 
     submit_button.addEventListener("click", async function()
     {
 
-        query = document.getElementById("input-query").value 
+        let query = document.getElementById("input-query").value 
 
         if (query.length < 1)
         {
@@ -52,7 +52,7 @@
         else
         {
             console.log("Processing the query...", query)
-            gpt_api = "https://aurioldegbelo-gpt-space.hf.space/run/predict"
+            let gpt_api = "https://aurioldegbelo-gpt-space.hf.space/run/predict"
             const response = await fetch(gpt_api, 
             {
                 method: "POST",
@@ -73,15 +73,17 @@
 
             display_area.value = answer.data[0].toString()
 
-            metadata = `Duration: ${answer.duration}s; Average duration: ${answer.average_duration}s; is_generating: ${answer.is_generating}  `
+            let metadata = `Duration: ${answer.duration}s; Average duration: ${answer.average_duration}s; is_generating: ${answer.is_generating}  `
             metadata_area.innerHTML = metadata
             metadata_area.hidden = false
 
             console.log("Performing the named entity recognition...")
 
-            spacy_api = "https://aurioldegbelo-ner-space.hf.space/run/predict"
+            let spacy_api = "https://aurioldegbelo-ner-space.hf.space/run/predict"
 
-            sentence = answer.data[0].toString()
+            let sentence = answer.data[0].toString()
+            
+            sentence = "Berlin, Münster, Madrid"
 
             const response_toponyms = await fetch(spacy_api, 
             {
@@ -94,9 +96,11 @@
 
             const geographical_entities = await response_toponyms.json()
             console.log(geographical_entities)
+        
 
-           // geographical_entities = retrieve_toponym(answer.data[0].toString(), spacy_api)
-            toponyms = `Geopolitical entities or Location: `
+            //geographical_entities = retrieve_toponym(sentence, spacy_api)
+            //console.log(geographical_entities)
+            let toponyms = `Geopolitical entities or Location: `
             toponym_area.innerHTML = toponyms
             toponym_area.hidden = false
         
@@ -104,8 +108,6 @@
         }
 
     })
-
-    /*
 
     async function retrieve_toponym (sentence, api_url)
     {
@@ -120,11 +122,13 @@
 
         const data = await response.json()
 
+        console.log(data)
+
         toponyms = data 
 
         return toponyms
     }
-    */
+  
     </script>
 
 </body>
