@@ -1,7 +1,8 @@
 import spacy
 import gradio as gr
 
-nlp = spacy.load("en_core_web_sm")
+
+nlp = spacy.load("en_core_web_sm") # You need to execute python -m spacy download en_core_web_sm, to be able to use this module
 
 # Code adapted from https://journal.code4lib.org/articles/15405
 def ner(sentence):
@@ -10,7 +11,7 @@ def ner(sentence):
 
     return places
 
-demo = gr.interface(fn=ner, inputs="text", outputs="text")
+demo = gr.Interface(fn=ner, inputs="text", outputs="text")
 demo.launch()
 
  
