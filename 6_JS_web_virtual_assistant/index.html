@@ -14,19 +14,40 @@
   <body>
     <br>
     <div class="container" >
-
-        <textarea class="form-control mb-4" id ="input-query" placeholder="Type your question here" columns="2"></textarea>
-        <button type="button" class="btn btn-dark btn-sm mb-2">Submit</button>
-
-
+        <textarea class="form-control w-25" id ="input-query" placeholder="Type your question here" rows="4"></textarea>
+        <button type="button" id="submit-button" class="btn btn-dark btn-sm mt-2">Submit</button>
     </div>
 
     <div class="container" >
         <br>
-
-        <textarea class="form-control" id = "result-display" placeholder="The answer will be displayed here" columns="2"></textarea>
-
+        <textarea class="form-control w-25" id = "result-display" placeholder="The answer will be displayed here" rows="7"></textarea>
     </div>
   
+    <script>
+
+   // input_area = document.getElementById("input-query")
+    submit_button =  document.getElementById("submit-button")
+    display_area = document.getElementById("result-display")
+
+    submit_button.addEventListener("click", function()
+    {
+
+        query = document.getElementById("input-query").value 
+
+        if (query === ""  ||  query === "Type your question here")
+        {
+            alert("No question submitted")
+
+        }
+        else
+        {
+
+
+        }
+
+    })
+
+    </script>
+
 </body>
 </html>
