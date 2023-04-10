@@ -9,7 +9,7 @@
 import os
 import my_api_keys
 import openai # open ai documentation at https://platform.openai.com/docs/introduction/overview
-#import gradio
+import gradio
 
 from llama_index import (
     GPTKeywordTableIndex,
@@ -45,12 +45,7 @@ documents = loader.load_data()
 my_question = "Which countries did Cyclone Freddy affect?"
 
 
-'''
-# Simple test without customization
-index = GPTSimpleVectorIndex.from_documents(documents)
-response = index.query(my_question)
-print(response)
-'''
+
 
 WikipediaReader = download_loader("WikipediaReader")
 loader = WikipediaReader()
