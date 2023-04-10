@@ -25,9 +25,9 @@
         <br>
         <textarea class="form-control w-50" id = "result-display" placeholder="The answer will be displayed here" rows="7"></textarea>
         <p id = "metadata-display" class = "mt-2" hidden>An invisible div element:</p>
+        <p id = "toponym-display" class = "mt-2" hidden>An invisible div element:</p>
 
     </div>
-
 
   
     <script>
@@ -36,6 +36,8 @@
     submit_button =  document.getElementById("submit-button")
     display_area = document.getElementById("result-display")
     metadata_area = document.getElementById("metadata-display")
+    toponym_area = document.getElementById("toponym-display")
+
 
     submit_button.addEventListener("click", async function()
     {
@@ -50,8 +52,8 @@
         else
         {
             console.log("Processing the query...", query)
-            api_url = "https://aurioldegbelo-testspace.hf.space/run/predict"
-            const response = await fetch(api_url, 
+            gpt_api = "https://aurioldegbelo-gpt-space.hf.space/run/predict"
+            const response = await fetch(gpt_api, 
             {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
@@ -74,12 +76,55 @@
             metadata = `Duration: ${answer.duration}s; Average duration: ${answer.average_duration}s; is_generating: ${answer.is_generating}  `
             metadata_area.innerHTML = metadata
             metadata_area.hidden = false
+
+            console.log("Performing the named entity recognition...")
+
+            spacy_api = "https://aurioldegbelo-ner-space.hf.space/run/predict"
+
+            sentence = answer.data[0].toString()
+
+            const response_toponyms = await fetch(spacy_api, 
+            {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    data: [sentence]
+                })
+            })
+
+            const geographical_entities = await response_toponyms.json()
+            console.log(geographical_entities)
+
+           // geographical_entities = retrieve_toponym(answer.data[0].toString(), spacy_api)
+            toponyms = `Geopolitical entities or Location: `
+            toponym_area.innerHTML = toponyms
+            toponym_area.hidden = false
         
 
         }
 
     })
 
+    /*
+
+    async function retrieve_toponym (sentence, api_url)
+    {
+
+        const response = await fetch(api_url, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+                data: [sentence]
+            })
+        });
+
+        const data = await response.json()
+
+        toponyms = data 
+
+        return toponyms
+    }
+    */
     </script>
 
 </body>
