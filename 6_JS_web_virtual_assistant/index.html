@@ -29,19 +29,33 @@
     submit_button =  document.getElementById("submit-button")
     display_area = document.getElementById("result-display")
 
-    submit_button.addEventListener("click", function()
+    submit_button.addEventListener("click", async function()
     {
 
         query = document.getElementById("input-query").value 
 
-        if (query === ""  ||  query === "Type your question here")
+        if (query.length < 1)
         {
             alert("No question submitted")
 
         }
         else
         {
+            api_url = "https://aurioldegbelo-testspace.hf.space/run/predict"
+            const response = await fetch(api_url, 
+            {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    data: [
+                        "what is this document about",
+                    ]
+                })
+            });
+            const data = await response.json()
 
+            display_area.value = JSON.stringify(data)
+            console.log()
 
         }
 
