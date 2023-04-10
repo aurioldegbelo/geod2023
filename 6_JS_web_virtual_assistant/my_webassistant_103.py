@@ -7,8 +7,8 @@
 
 
 import os
+
 import my_api_keys
-import openai # open ai documentation at https://platform.openai.com/docs/introduction/overview
 import gradio as gr
 
 from llama_index import (
@@ -20,8 +20,13 @@ from llama_index import (
     PromptHelper
 )
 
+from llama_index.prompts.prompts import QuestionAnswerPrompt
+
+
 # documentation of langchain at https://github.com/hwchase17/langchain
 from langchain.chat_models import ChatOpenAI
+from langchain import OpenAI # if you want to use a model other than gpt-3.5-turbo
+
 
 os.environ['OPENAI_API_KEY'] = my_api_keys.my_open_ai_key
 
@@ -41,6 +46,8 @@ def custom_llama_index (question):
     # Take all the files in the data folder, see https://llamahub.ai/l/file
     loader = SimpleDirectoryReader('./data', recursive=True, exclude_hidden=True)
     documents = loader.load_data()
+    #print(documents)
+
 
     ## Step 2: Build a CUSTOM llm index: code adapted from https://github.com/wombyz/custom-knowledge-chatbot/tree/main/custom-knowledge-chatbot
     # Official documentation: https://gpt-index.readthedocs.io/en/latest/how_to/customization/custom_llms.html
@@ -55,7 +62,7 @@ def custom_llama_index (question):
     prompt_helper = PromptHelper(max_input_size, num_output, max_chunk_overlap)
 
     # define LLM
-    llm_predictor = LLMPredictor(llm=ChatOpenAI(temperature=0.5, model_name="gpt-3.5-turbo"))  
+    llm_predictor = LLMPredictor(llm=OpenAI(temperature=0.5, model_name="text-davinci-002"))  
     service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor, prompt_helper=prompt_helper)
 
     # build index
@@ -66,8 +73,22 @@ def custom_llama_index (question):
     # get response from query
     response = custom_index.query(question)
 
-    return response 
+    
+    # If we want to include prompt-engineering
+    # Code from https://www.linkedin.com/pulse/extending-chatgpt-knowledge-base-custom-datasources-cezar-romaniuc
+    QUESTION_ANSWER_PROMPT_TMPL = (
+        "You are an assistant that specializes in geographic question answering. If you don't have an answer, answer with 'I don't know' \n"
+        "---------------------\n"
+        "{context_str}"
+        "\n---------------------\n"
+        "{query_str}\n"
+    )
+    QUESTION_ANSWER_PROMPT = QuestionAnswerPrompt(QUESTION_ANSWER_PROMPT_TMPL)
 
+    response_with_custom_prompt = custom_index.query(question, text_qa_template=QUESTION_ANSWER_PROMPT)
+   
+
+    return response_with_custom_prompt 
 
 
 demo = gr.Interface(fn=custom_llama_index, inputs="text", outputs="text")
