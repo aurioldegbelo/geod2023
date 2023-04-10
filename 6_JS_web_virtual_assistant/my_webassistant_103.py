@@ -30,7 +30,15 @@ from langchain import OpenAI # if you want to use a model other than gpt-3.5-tur
 
 os.environ['OPENAI_API_KEY'] = my_api_keys.my_open_ai_key
 
-my_question = "Which countries did Cyclone Freddy affect?"
+
+'''
+What is this document about
+Which countries were affected
+How many people injured
+When did the earthquake take place
+What is the president
+what is the data of birth of Germany => Should return no answer
+'''
 
 
 def custom_llama_index (question): 
