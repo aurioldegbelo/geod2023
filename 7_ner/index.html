@@ -65,7 +65,6 @@
 
             console.log(answer)
 
-            console.log("-----------------")
             console.log(answer.data[0].toString())
             console.log(answer.duration)
             console.log(answer.average_duration)
@@ -83,7 +82,7 @@
 
             let sentence = answer.data[0].toString()
             
-            sentence = "Berlin, Münster, Madrid"
+            //sentence = "Angela Mar, Bill Clinton Berlin, Madrid we have an incredible text, Münster"
 
             const response_toponyms = await fetch(spacy_api, 
             {
@@ -95,16 +94,21 @@
             })
 
             const geographical_entities = await response_toponyms.json()
+            console.log(typeof(geographical_entities))
             console.log(geographical_entities)
         
+            if (geographical_entities.data[0].toString() === "")
+            {
+                toponym_area.innerHTML = "No political entities or location in the text"
+            }
+            else
+            {
+                toponym_area.innerHTML = `Geopolitical entities or Location in the text: ${geographical_entities.data[0].toString()}`
 
-            //geographical_entities = retrieve_toponym(sentence, spacy_api)
-            //console.log(geographical_entities)
-            let toponyms = `Geopolitical entities or Location: `
-            toponym_area.innerHTML = toponyms
+            }
+
             toponym_area.hidden = false
         
-
         }
 
     })
