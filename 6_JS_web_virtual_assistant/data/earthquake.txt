@@ -1,0 +1,469 @@
+On 6 February 2023, at 04:17 TRT (01:17 UTC), a Mw 7.8 earthquake struck southern and central Turkey and northern and western Syria. The epicenter was 37 km (23 mi) west–northwest of Gaziantep.[1] The earthquake had a maximum Mercalli intensity of XII (Extreme) in parts of Antakya in Hatay Province. It was followed by a Mw 7.7 earthquake at 13:24.[4] This earthquake was centered 95 km (59 mi) north-northeast from the first. There was widespread damage and tens of thousands of fatalities.
+
+The Mw 7.8 earthquake is the largest in Turkey since the 1939 Erzincan earthquake[5] of the same magnitude, and jointly the second-strongest recorded in the history of the country, after the 1668 North Anatolia earthquake.[6] It is also one of the strongest earthquakes ever recorded in the Levant. It was felt as far as Egypt and the Black Sea coast of Turkey. There were more than 10,000 aftershocks in the three weeks that followed.[7] The seismic sequence was the result of shallow strike-slip faulting.
+
+There was widespread damage in an area of about 350,000 km2 (140,000 sq mi) (about the size of Germany).[8] An estimated 14 million people, or 16 percent of Turkey's population, were affected.[9] Development experts from the United Nations estimated that about 1.5 million people were left homeless.[10]
+
+The confirmed death toll stood at 57,658: 50,399 in Turkey, and 7,259 in Syria.[11][12] It is the deadliest earthquake in what is present day Turkey since the 526 Antioch earthquake,[13] making it the deadliest natural disaster in its modern history.[14] It is also the deadliest in what is present day Syria since the 1822 Aleppo earthquake;[15] the deadliest worldwide since the 2010 Haiti earthquake;[16] and the fifth-deadliest of the 21st century.[17] Damages were estimated to be US$104 billion in Turkey and US$5.1 billion in Syria,[18][19] making them the fourth-costliest earthquakes on record.
+
+Damaged roads, winter storms, and disruption to communications hampered the Disaster and Emergency Management Presidency's rescue and relief effort, which included a 60,000-strong search-and-rescue force,[20] 5,000 health workers[21] and 30,000 volunteers.[22] Following Turkey's call for international help, more than 141,000 people from 94 countries joined the rescue effort.[23]
+
+Tectonic setting
+Geology
+
+Map of the Anatolian Plate, showing location of the East Anatolian Fault
+
+Map showing faults active during the Holocene, the extent of observed or inferred surface rupture and the location of epicenters for all earthquakes in the sequence of magnitude M≥5.0 in the first 21 days
+Central southern Turkey and northwestern Syria are affected by the interaction between three tectonic plates, the African Plate, the Arabian Plate and the Anatolian Plate. The boundary between the African and Arabian plates is formed by the Dead Sea Transform (DST), which is a major zone of left-lateral strike-slip that accommodates the relative northward movement of Arabia with respect to Africa. The northern end of the DST truncates at the East Anatolian Fault (EAF) another major zone of left-lateral strike-slip that accommodates the overall westward movement of the Anatolian Plate as it is extruded in that direction by the northward movement of the Arabian Plate. The DST and EAF meet at the Marash Triple Junction. The EAF continues west of the triple junction, forming the boundary between the African and Anatolian plates, linking into the Cyprus arc to the west via the Latakia Ridge.[24]
+
+The 700-kilometre-long East Anatolian Fault has been subdivided into seven segments, from the northeast the Karlıova, Ilıca, Palu, Pütürge, Erkenek, Pazarcık and Amanos.[24] The Amanos segment is also considered to be part of the DST by some workers,[25] or a transitional structure between the EAF and DST by others.[26] A northern strand to the EAF has also been recognised, including the Sürgü, Çardak, Savrun, Çokak, Toprakkale, Yumurtalık, Karataş, Yakapınar and Düziçi–İskenderun segments. The estimated slip rate on the main strand of the EAF system decreases south-westwards from 10 mm per year on the Karlıova segment down to 2.9 mm per year on the Amanos segment. On the northern strand, slip rates of 2.5 mm per year have been estimated on the Çardak segment.[24]
+
+The northern part of the Dead Sea Transform has been subdivided into several segments, although there is some disagreement between workers as to which faults should be assigned to the DST and which to the EAF, at the northernmost end of the structure. Following the 2013 "Active Fault Map of Turkey", seven DST segments are recognised in Turkey and neighbouring parts of Syria, the Afrin, Sermada, Armanaz, Hacıpaşa, Yesemek, Sakçagöz and Narlı segments.[24]
+
+Seismicity
+The EAF has produced large or damaging earthquakes in the past few hundred years on the various segments, including the 1789 (M 7.2, Palu), 1795 (M 7.0, Pazarcık), 1872 (M 7.2, Amanos), 1874 (M 7.1, Palu), 1875 (M 6.7, Palu), 1893 (M 7.1, Erkenek), 1971 (M6.6, Karlıova) and 2020 (Mw 6.8, Pütürge) events.[27][28] Other large historical earthquakes have been tentatively assigned to segments of the EAF, such as the 1114 and 1513 Marash earthquakes, both thought to have ruptured the Pazarcık segment.[29][30]
+
+The Palu and Pütürge segments in the east display a recurrence interval of about 150 years for M 6.8–7.0 earthquakes. The Pazarcık and Amanos segments in the west have recurrence intervals of 237–772 years and 414–917 years, respectively, for M 7.0–7.4 earthquakes.[27] A research paper published by Earth and Planetary Science Letters in 2002 studies stress accumulation and increased seismic hazard along the East Anatolian Fault. The study concluded two sections of the fault with considerably high potential for future earthquakes. One of these sections was in Elazığ and Bingöl, located between the rupture zones of the 1874 and 1971 earthquakes. The seismic gap ruptured during a Mw  6.1 earthquake in 2010. The 2020 Mw  6.8 earthquake ruptured to the southwest between the 1893/1905 and 1874 earthquakes.[31] Another seismic gap was located in Kahramanmaraş. This 103 km (64 mi) long section, according to the study, believed to last rupture in 1513 has the potential to produce magnitude 7.3 earthquakes.[32]
+
+Large earthquakes on the northern part of the DST include events in 115, 526, 587, 1138, 1170 and 1822, which resulted in several tens of thousands to several hundreds of thousands of fatalities.[1][33]
+
+Earthquake sequence
+Mw 7.8 earthquake at 01:17 UTC
+A strong ground motion map of the mainshock
+Strong ground motion map
+Seismogram of the Mww 7.8 earthquake
+Seismogram
+The first and largest earthquake in the sequence struck at 01:17 UTC.[34] The United States Geological Survey (USGS) and Global Centroid Moment Tensor (GCMT) measured it at moment magnitude Mww 7.8 and Mw 7.8, respectively.[4] GEOSCOPE reported a magnitude of Mw 8.0[35] and Kandilli Observatory (KOERI) reported a magnitude of Mw 7.7 and ML 7.4. It had an epicenter at 37.166°N 37.032°E, 34 km (21 mi) west of Gaziantep in Gaziantep Province, which is near the border with Syria. The earthquake hypocenter was at a depth of 10.0 km (6 mi) according to USGS and 5 km (3 mi) according to KOERI.[1][36][37] The shock had a focal mechanism corresponding to strike-slip faulting.[1][35]
+
+It is one of the strongest ever recorded in Turkey, equivalent in magnitude to the 1939 Erzincan earthquake (Mw 7.8).[38][5] These earthquakes are surpassed only by the larger estimates for the 1668 North Anatolia earthquake.[39][40] Globally it was the strongest recorded since August 2021.[41]
+
+Mw 7.7 earthquake at 10:24 UTC
+A strong ground motion map of the Mww 7.5 aftershock
+Strong ground motion map
+Seismogram of the Mw 7.7 earthquake
+Seismogram
+Later that day at 10:24 UTC, an earthquake measuring Mww 7.5 according to USGS,[42] Mw 7.6[43] according to KOERI, or Mw 7.7 according to Geoscope[44] and the GCMT,[4] struck with an epicenter near Ekinözü, 95 km northeast of the M7.8 event. It had a depth of 15 km (9 mi) according to the USGS, 5 km (3 mi) by KOERI,[45] and 13 km (8 mi) by Geoscope.[44]
+
+According to Kandilli Observatory, the maximum MMI of the mainshock was estimated to have reached MMI XI–XII (Extreme) in Antakya. The MMI also reached IX–X (Violent–Extreme) in Kahramanmaraş and İskenderun, VIII–IX (Severe–Violent) in Malatya and Adıyaman, VII–VIII (Very strong–Severe) in Gaziantep, Kilis, Idlib and Aleppo, and VI–VII (Strong–Very strong) in Adana and Şanlıurfa.[2] The maximum MMI of the second earthquake was X (Extreme).[46]
+
+Aftershocks
+For a more comprehensive list, see List of aftershocks of the 2023 Turkey–Syria earthquake.
+Over 570 aftershocks were recorded within 24 hours of the Mw 7.8 earthquake and 10,000 recorded three weeks later. An aftershock measuring Mww 6.7 occurred about 11 minutes after the mainshock.[47] There were 25 aftershocks Mw 4.0 or greater recorded within six hours of the main tremor, according to the USGS. More than 12 hours later, the USGS had reported at least 54 aftershocks of 4.3 or greater magnitude, while the Turkish Disaster and Emergency Management Presidency (AFAD) recorded at least 120 total aftershocks.[48] A Mww 6.3 aftershock struck near Uzunbağ in Hatay Province on 20 February; the earthquake was the result of oblique-normal faulting.[49]
+
+The Mw 7.7 earthquake triggered its own aftershock sequence,[7] including two mb 6.0 aftershocks.[50][51] Aftershocks of the second earthquake continued through at least 9 Feb.[52]
+
+Seismology
+Mw 7.8 finite fault
+
+Distribution of slip across the rupture
+
+Surface projection of finite fault model
+Mw 7.7 finite fault
+
+Distribution of slip across the rupture
+
+Surface projection of finite fault model
+A source model for the Mww 7.8 earthquake produced by the USGS from observed seismic waves, taking into account preliminary rupture mapping from satellite data, uses three fault segments with individual lengths, widths, strikes and dips of >40 km (25 mi) × 30 km (19 mi), 028°/85° (Segment 1), >175 km (109 mi) × 30 km (19 mi), 060°/85° (Segment 2) and >160 km (99 mi) × 20 km (12 mi), 025°/75° (Segment 3). The mainshock produced a maximum slip of 11.2 m (37 ft) along Segment 2, beneath Sakarya in Kahramanmaraş Province, northeast of the junction where it meets Segment 1. Another zone of large slip estimated at 4.96 m (16.3 ft) occurred further northeast along Segment 2, northwest of Adıyaman.[1]
+
+The USGS source model for the Mw 7.7 earthquake which struck nine hours later has three large fault segments with individual lengths, widths, strikes and dips of >70 km (43 mi) × >20 km (12 mi), 276°/80° (Segment 1), >40 km (25 mi) × >20 km (12 mi), 250°/80° (Segment 2) and ~80 km (50 mi) × >20 km (12 mi), 060°/80° (Segment 3). Maximum displacement occurred on Segment 1 at 11.4 m (37 ft).[42]
+
+Preliminary analysis of the effects of stress changes caused by the M7.8 earthquake on the Çardak–Sürgü Fault, based on the USGS fault model, indicated up to 3 bars of added stress near the epicenter of the M7.7 shock, sufficient to trigger rupture on that zone, assuming that is was already close to failure.[53][54]
+
+Surface rupture
+
+Interferogram of the Mw  7.8 mainshock
+The extent of surface ruptures associated with the M7.8 and M7.7 earthquakes have been mapped using a mixture of satellite imagery and ground observations. Pixel matching on images captured by Sentinel-1 before and after the earthquakes showed sharp discontinuities in displacement, revealing two separate zones of surface rupture. The longer of the pair, produced by the first earthquake, measured 300 km (190 mi) while the second earthquake produced 125 km (78 mi) of surface rupture.[55] These observations were backed up with direct imaging of the ruptures using other satellite data, such as from the DigitalGlobe's WorldView-1, 2 & 3 and GeoEye-1,[56] and by field work.[57][58]
+
+The zone of surface rupture extended from north of Antakya, Hatay Province towards Pazarcık, Kahramanmaraş Province and Gölbaşı, Adıyaman Province.[59] Surface ruptures continued north of these cities. Surface rupture occurred in the Amik Valley. The westernmost part of Hatay Airport was damaged by surface ruptures but cracks in the runway were attributed to ground deformation. A major canal was damaged and lead to flooding in parts of the Amik Valley which was formerly Lake Amik.[60] Field observations indicate a maximum displacement of 7.3 m (24 ft) on the surface.[61] Geologists traced a 15 km (9.3 mi) surface rupture trending south from Pazarcık with an offset of 2.5 m (8 ft 2 in). From Golbasi to Nurdağı ground displacements were up to 5 m (16 ft).[58]
+
+The surface rupture observed during the M7.8 earthquake was unusually large, comparable to that during the 1906 San Francisco earthquake along the San Andreas Fault.[62]
+
+Rupture propagation
+See also: Supershear earthquake
+Preliminary analysis based on seismology and observations of surface rupture suggest the following sequence of events: initial rupture at the site of the epicenter of the M7.8 shock on the Narlı Fault, the northernmost section of the Dead Sea Transform.[63][64] The fault ruptured unilaterally northwards until it reached the Pazarcık segment of the East Anatolian Fault. Ruptures then continued bilaterally to the northeast and southwest along this segment. To the northeast, the rupture continued onto the Ekernek segment and to the southwest onto the Amanos segment.[65] A Mw 6.8 aftershock occurring 11 minutes later and west of the first M>7 epicenter may have ruptured along the Sakçagöz Fault, the next segment of the Dead Sea Transform to the south.[65] Rupture along the EAF during the event occurred at subshear velocity (maximum 3.2 km (2.0 mi) per second).[66] A preliminary analysis of near-field (within 1 km of the fault rupture) seismic records indicates that the initial rupture speed transitioned to supershear over a distance of about 19.5 km (12.1 mi) along the Narlı Fault before it reached the EAF.[67]
+
+The second M>7 earthquake initiated on a separate fault[68][69] known as the Çardak–Sürgü Fault Zone, [58] part of the northern strand of the East Anatolian Fault.[24][70][71][59] The rupture propagated bilaterally along the Çardak segment, continuing eastwards onto the Sürgü segment before continuing eastwards to Malatya along the northeast–southwest trending Doğanşehir Fault Zone. Rupture also propagated towards the southwest along the Çardak segment. The total rupture length was estimated at 160 km (99 mi).[65] The westward-propagating rupture occurred at supershear velocity (maximum 4.8 km (3.0 mi) per second) while the eastward-propagating rupture occurred at subshear velocity (maximum 2.8 km (1.7 mi) per second).[66]
+
+Ground motion
+Ground acceleration values recorded in some areas near the fault rupture were in excess of 1 g.[72] Three USGS seismic installations, two at Antakya and one at Hassa, recorded large ground accelerations and velocities. The town of Hassa recorded 0.9082 g in ground acceleration (pga) and 215.34 cm/s (84.78 in/s) in ground velocity. The station data corresponded to a Modified Mercalli intensity of X (Extreme). The peak ground acceleration was 1.62 g recorded by a station at Fevzipaşa. The maximum peak ground velocity was recorded at 215 cm/s in Hassa.[73]
+
+Geological effects
+Liquefaction was identified via satellite and remote sensing along the southern portion of the Mw 7.8 rupture on the East Anatolian Fault from Antakya to Golbasi. Liquefaction and lateral spreading were observed at and near coastal areas, fluvial valleys and drained lake or swamp areas, covered by Holocene sediments.[74] These effects were widespread in the Amik Valley and Orontes River plain, north of Antakya, Hatay Province. Limited observations were made in high-elevation areas due to snow cover and lack of satellite observations. [74] Subsidence due to lateral spreading caused extensive damage to İskenderun where the sea inundated parts of the city by as much as 200 m (660 ft). Large areas of the coast and sections of piers were flooded due to lateral spreading. Liquefaction was also observed in Samandağ. At Lake Gölbaşı, Adıyaman Province, lateral spreading occurred along the northern, eastern and southern coast. Parts of the lakeshore were also submerged. Gölbaşı was also damaged by liquefaction and lateral spreading.[60] Large waves from bad weather and a tsunami may have contributed to the effects observed at İskenderun.[75]
+
+Despite an epicenter 90 km (56 mi) inland, a tsunami was recorded in the Mediterranean Sea.[65] Small tsunami waves were recorded off the coast of Famagusta, Cyprus, without damage.[76] The tsunami measured 0.17 m (6.7 in), and tsunami waves were recorded at 0.12 m (4.7 in) at İskenderun and 0.13 m (5.1 in) at Erdemli.[77] Tsunami warnings were issued for the southern Turkish coast, southern and eastern Italian coasts and the whole eastern Mediterranean Sea area, but later withdrawn.[78][79][80][81][82]
+
+Damage and casualties
+In Turkey
+Casualties by Turkish province[83]
+Province	Deaths	Injuries
+Adana[83]	454	7,450
+Adıyaman[84]	6,013	17,000
+Batman[85]	0	20
+Diyarbakır[86]	414	902
+Elazığ[83]	5	379
+Gaziantep[87]	3,897	13,325
+Hatay[88]	21,910	30,762
+Kahramanmaraş[89]	10,194	9,243
+Kilis[90]	74	754
+Malatya[91]	1,410	7,300
+Mardin[92]	1	0
+Osmaniye[93][83]	991	2,224
+Şanlıurfa[94]	340	8,919
+
+Turkish provinces significantly affected by the earthquake
+There were 50,399 deaths and 107,204 injured across 11 provinces of Turkey.[11] At least 15.73 million people[95] and 4 million buildings were affected.[96] About 345,000 apartments were destroyed.[97] More than 2 million residents in the affected provinces were evacuated to nearby provinces including Mersin, Antalya, Mardin, Niğde and Konya.[98] More than 20 percent of Turkey's agriculture production was damaged. The United Nations said crops, livestock, fisheries, aquaculture and rural infrastructure were heavily damaged.[95]
+
+By 23 February 2023, the Ministry of Environment, Urbanization and Climate Change conducted damage inspections for 1.25 million buildings; revealing 164,000 buildings were either destroyed or severely damaged.[99] A further 150,000 commercial infrastructure were at least moderately damaged.[100] The International Organization for Migration estimated about 2.7 million people were made homeless.[101] A damage assessment by the Turkish government revealed at least 61,722 buildings had to be demolished including 11,900 in Gaziantep Province, 10,900 in Hatay Province, 10,800 in Kahramanmaraş Province and 28,914 in Malatya Province.[102][103][104] Broad fissures appeared on roads.[105] During recovery efforts, body parts were often found in the rubble.[106]
+
+In Adana, 12 buildings collapsed in the city center, 23 were badly damaged and 120 were moderately damaged.[107] Three apartments were among the buildings that collapsed in the city.[108] Across Adana Province, damage assessments revealed 59 buildings and 1,274 apartments were destroyed or required demolition.[103]
+
+At least 300 buildings were razed in Malatya. Sixty percent of the city's buildings received damage. Nearly every neighborhood of the city was affected by collapsed buildings. Two hotels collapsed in the city, causing many casualties.[109] The ceiling of Malatya Erhaç Airport experienced a partial collapse,[110] as did the historic Yeni Camii mosque.[111] Damage was also reported at the Arslantepe Mound.[112] In Akçadağ, 11 people died, including four attributed to the second earthquake.[113] At least 263 deaths were reported in Doğanşehir.[114]
+
+In Gaziantep, many of the historical sites were severely damaged, such as Gaziantep Castle,[115][116] Şirvani Mosque[117] and Liberation Mosque.[118] In Nurdağı, nearly 2,500 people died and nearly 50 percent of the town was badly damaged or destroyed. An additional 30 percent of its building stock received moderate damage.[119] Mass graves were created to bury the overwhelming number of dead.[106] Gaziantep Oğuzeli Airport was forced to restrict its service to rescue flights.[120] Ninety percent of houses were heavily damaged or destroyed in Sakçagözü, and 256 people died.[121] In İslahiye, there were 1,368 deaths, over 1,500 injuries and more than 200 destroyed apartments.[122] There were also over 130 deaths in Sulumağara, 200 deaths in Altınüzüm, and between 300 and 400 fatalities in Keküklü.[123]
+
+In Hatay Province, at least 55,589 buildings were partially or totally destroyed.[124][125] In Antakya about 3,100 buildings were destroyed,[126] and up to 80 percent of the city's buildings required demolition.[126][127] The districts of Kırıkhan and İskenderun were razed.[128] Collapse of the luxury Rönesans Rezidans apartment trapped an estimated 800 people,[129] and killed 750 residents.[130] The runway of Hatay Airport was split and uplifted, causing flight cancellations.[131] By 12 February, the Ankara Metropolitan Municipality completed repairs on the airport,[132] allowing its reopening.[133] Two provincial hospitals and a police station were destroyed,[134] and a gas pipeline exploded.[135] The building that housed the assembly of Hatay State was destroyed,[136] as was St. Paul's Church[137] and the Habib'i Neccar Mosque, while damage was reported at the Antakya Synagogue[138] and the Hatay Archaeology Museum.[137] Several dozen buildings in Güzelburç district[139] and nearly every house in the central and Cebrail districts collapsed.[128] Most of the squad and coaching staff of the local football club Hatayspor were initially trapped in the collapse of their headquarters in Antakya before being rescued, with player Christian Atsu and sporting director Taner Savut dying.[140][141]
+
+
+Satellite view of the blaze at İskenderun
+In İskenderun, an industrial city in Hatay Province, a large fire at the port was reported on 6 February at 17:00,[142] believed to have originated from a container carrying flammable industrial oil,[143] forcing the port's closure and the diversion of many ships. It was extinguished on 6[144] and 8[145] February, only for it to reignite the next day each time.[146][147] It was finally extinguished on 10 February.[148] A total of 3,670 containers were destroyed by the fire and the port managing authority said it would take three months for operations to resume.[149] Flooding occurred along the city shoreline, inundating streets up to 200 m (660 ft) inland.[150] The Cathedral of the Annunciation, seat of the Roman Catholic Apostolic Vicariate of Anatolia, was almost completely destroyed.[151] In the city, 3,109 people died, over 12,000 were injured, 407 buildings collapsed and 2,646 others were badly damaged or required demolition. A further 12,154 sustained minor to moderate damage.[152] There were no collapses or major damage in Erzin despite being closer to the epicenter than other areas of Hatay Province. Multiple factors including strict building codes prevented destruction. An estimated 20,000 people fled to Erzin, increasing its population by about 50 percent.[153] In Samandağ, 7,850 people lost their lives, with an additional 11,000 missing.[154]
+
+Mass burials occurred in Kahramanmaraş[155][156] for more than 5,000 bodies.[157] A city official said the mass grave would eventually be the burial ground for 10,000 bodies.[157] The Interior Ministry later confirmed 941 buildings were totally collapsed.[158] In Elbistan, 924 people died and 1,825 were injured.[159] An estimated 2,000 buildings were destroyed.[160] At Ordekdede, a village in Pazarcik District, almost all single-story buildings were decimated. None of the 140 houses in the village were structurally stable. Thirty-four people died in the village.[161] At least 11 people died, 107 houses were destroyed and 70 percent of the building stock were damaged in Ekinözü.[162] In Afşin, at least 180 people died. At least 335 buildings including 90 in the city center were destroyed. The Afşin-Elbistan Thermal Power Plant was also damaged.[163] In Ericek, a village in Göksun, 95 percent of homes were affected and 152 died.[164] In Nurhak, there were around 200 deaths and all houses were severely damaged.[165]
+
+In Adıyaman Province, over 20,000 buildings and 56,600 apartments were destroyed.[99] In the city of Adıyaman, four neighborhoods were razed.[166] Many buildings along Atatürk Boulevard collapsed.[167] The city hall, a 6th-century mosque and Gölbaşı District's state hospital were also destroyed.[168][169][170] Isias Hotel, the largest hotel in the city, also collapsed, killing 65 people.[171][172] Up to 10 percent of Adıyaman's population perished.[173] The mayor of Kömür said the Karapınar and Bahçelievler neighborhoods were nearly destroyed. Destruction was also observed in Barbaros, Çelikhan, Sümerevler and Karapınar districts. In Harmanlı, a village in Gölbaşı District, 80–90 percent of it was destroyed.[109] The second earthquake destroyed three buildings in the province.[169] In Gölbaşı, 71 percent of the town's infrastructure was damaged or destroyed and 695 people were killed with over 400 injured, including 286 deaths in the town center.[174] There were also 410 deaths in Besni District, about 90 percent of them in the town itself.[175] In Kâhta, 55 people lost their lives with 20 still missing.[176]
+
+In Diyarbakir Province, 8,086 buildings were damaged, required demolition or were destroyed.[103] Diyarbakır Fortress, a UNESCO World Heritage Site, was also partly destroyed.[151] The adjacent World Heritage Site of Hevsel Gardens was also damaged.[120] Part of the Galeria complex in Yenişehir, which included a shopping mall and dozens of apartments collapsed, killing 89 and injuring 22.[177]
+
+At least 466 buildings were heavily damaged in Şanlıurfa Province; 201 were destroyed.[178] Structures around the Pool of Abraham were damaged. The minaret at the religious shrine partially collapsed, sending rubble into the pools below and discoloring the water, which was also contaminated by sewage.[138] In Eyyübiye District, the minaret of the Eyüp Prophet Mosque was damaged and removed.[178] Thirty-three people were killed in the collapse of the Osman Ağan Apartment.[179]
+
+In Osmaniye Province, of the 22,841 buildings surveyed, 1,739 were heavily damaged, destroyed or required urgent demolision. At least 1,088 of the 13,667 buildings examined in Merkez District were destroyed, seriously damaged or needed to be demolished.[180]
+
+In Kilis Province, 119 buildings were destroyed and 138 others were heavily damaged.[181] In Batman Province, 218 buildings were damaged, and an additional 15 were completely destroyed.[182] A heart attack death occurred in Kızıltepe District, Mardin Province.[92] In Bingöl Province, several houses cracked and some livestock were killed by collapsing barns.[183] In Samsun, damage occurred in Samsun Stadium.[184] In Kayseri Province, 48 houses, 11 barns and a school were affected, while 73 buildings were severely damaged.[185] Several houses were damaged and a barn collapsed in Muş Province.[186] In Sivas Province, the second earthquake destroyed a few houses.[187] In Giresun Province, a five-story building was damaged and evacuated.[188] An unoccupied apartment in Elazığ was damaged and later collapsed during the second earthquake.[189]
+
+Among the dead included member of the Grand National Assembly of Turkey for Adıyaman Yakup Taş,[190] Yeni Malatyaspor goalkeeper Ahmet Eyüp Türkaslan,[191] former Turkish national handball team player Cemal Kütahya and his five-year-old son,[192][193] and Saul Cenudioğlu, leader of the Jewish community in Antakya, who died along with his wife.[138] Former MP for Kahramanmaraş Sıtkı Güvenç died from earthquake injuries on 9 February.[194] Three Turkish soldiers died during rescue operations.[195] Twenty-six local journalists were among the dead.[196]
+
+The wreckage of the collapsed Galeria Business Center, Diyarbakır, Turkey
+The wreckage of the collapsed Galeria Business Center, Diyarbakır, Turkey
+
+ 
+Bodies at the Training and Research Hospital in Adıyaman
+Bodies at the Training and Research Hospital in Adıyaman
+
+ 
+Satellite view of the destruction in Antakya
+Satellite view of the destruction in Antakya
+
+ 
+Rescue workers in Osmaniye
+Rescue workers in Osmaniye
+
+ 
+Aerial view of collapsed houses in Hatay
+Aerial view of collapsed houses in Hatay
+
+Damage assessment statistics by province[103] 
+In Syria
+
+Destruction in Jindires, Aleppo Governate, Syria
+At least 7,259 people died[197] and over 14,500 were injured in Syria.[12] Among the dead included 2,153 children and 1,524 women.[197] The Syrian Ministry of Health recorded over 2,248 earthquake-related deaths and 2,950 injuries in government held areas,[198] most of which were in the governorates of Aleppo and Latakia.[199] In rebel-held areas, at least 4,547 people died[198] and 2,200 others were injured.[200][201] The Syrian Network for Human Rights stated 73 medics, five media personnel, 62 workers in humanitarian agencies, and four civil defense personnel were among the dead.[202] The Syrian Observatory for Human Rights said additional dead were buried before being registered and some victims died in hospitals.[198] Syria's National Earthquake Centre said the earthquake is "the biggest earthquake recorded" in its operational history.[203]
+
+An estimated 5.37 million people across Syria may have been made homeless,[204] while 10.9 million people, nearly half of Syria's population, were affected.[205] More than 123 residential areas, villages, towns and cities were badly damaged. Many power plants, water facilities, hospitals and public infrastructure also sustained damage.[198] At least 453 schools were damaged.[206] A total of 10,600 buildings had partially or fully collapsed, while thousands of others were damaged in the country.[207][208]
+
+Hundreds were killed in the towns of Jindires and Atarib.[200] In Jableh, at least 283 people died, 173 were injured and 19 buildings collapsed.[209] Four bodies were recovered and 15 bodies were in the process of recovery during debris clearance on 10 February.[210] On 11 February, six bodies were retrieved from the rubble of a collapsed house along al-Maliyeh Street.[211] Civilians were stuck under the rubble for hours due to the lack of rescue teams in several villages such as Atarib, Besnia, Jindires, Maland, Salqin and Sarmada.[212][213][214] In Latakia Governorate, 142,000 people were affected; at least 805 people died and 1,131 others were injured. The region's governor said 105 buildings were destroyed, 247 were at risk of collapse and 900 others were severely damaged.[215][216][217] At Tishreen University, 10 students, 3 employees and a professor died.[218] At least 48 people were killed in Hama, of which 43 were from the collapse of an eight-story building.[219]
+
+The Associated Press, citing local residents, said the Afrin Dam had cracked.[220] On 9 February at 04:00, the dam burst and flooded the village of Al-Tloul, which was exacerbated by heavy rains along the Afrin River basin. Nearly all its residents fled; about 500 families were displaced. According to Reuters, citing local residents, between 35 and 40 people died and most buildings in Al-Tloul were damaged or destroyed by the earthquake.[221] In Atarib, 148 bodies arrived at an underground hospital. A doctor at the hospital said some bodies were missing their head or limbs.[222] Various archaeological sites in Tartus Governorate were damaged, including the Margat Castle, Khawabi Castle and Aleika Castle, which partially collapsed. Damage to historical towers and infrastructure were also reported in Tartous and Safita.[223]
+
+The president of the Syrian American Medical Society, Amjad Rass, said emergency rooms were packed with injured.[224] In Idlib Governorate, one hospital received 30 bodies.[225][226] In the village of Azmarin, Idlib Governorate, at least 260 people died, including 51 members of one family; at least 300 were injured and 100 were rescued. Fifteen buildings in the village were leveled and about 50 percent of its housing stock had cracks.[227] Footballer Nader Joukhadar, who played for the national team, was killed alongside his son when their home collapsed in Jableh.[228][229]
+
+
+Building wreckage in Aleppo, Syria
+According to the International Rescue Committee, the earthquake struck when rebel-held areas were preparing for a blizzard and experiencing a cholera outbreak.[230] In Aleppo, dozens of buildings collapsed[231] and at least 444 people died, including 163 children.[232] By 8 February, the bodies of 210 victims were returned to their families.[233] The Directorate-General of Antiquities and Museums said various archeological sites across the city were extensively cracked or collapsed.[234] Cracks were also reported in the outer façade of the Aleppo National Museum.[235] In Atarib, Aleppo, the Syrian American Medical Society hospital said 120 bodies were recovered.[236] About 20,000 homes were affected in Aleppo, leaving 70,000 homeless.[237] In Rajo, the doors and walls of a prison facility cracked. Twenty prisoners, believed to be Islamic State (ISIS) members, escaped the facility.[238]
+
+In Damascus, many people fled from their homes onto the streets.[239][240] In the northern parts of the city, many buildings were cracked.[241] Many buildings in Syria had already been damaged by an almost 12-year-long civil war.[242] The Crusader-built castle Margat suffered damage, with part of a tower and parts of some walls collapsing.[239] Cracks also opened up in the walls of the Krak des Chevaliers castle.[138] The Citadel of Aleppo was also affected.[243] In addition, one of the towers of Sahyun Castle near Latakia was destroyed, meanwhile all others were in danger.[244] The minaret of the Grand Mosque in Kobanî was also damaged.[245] In Jindires, at least 250 buildings were razed;[246] among the deaths were a family of 7—the only survivor was a newborn.[247]
+
+Destruction in Aleppo, Syria
+Aleppo after the 7.8 magnitude earthquake centered in Türkiye 10.jpg
+ 
+Aleppo after the 7.8 magnitude earthquake centered in Türkiye 3.jpg
+ 
+Aleppo after the 7.8 magnitude earthquake centered in Türkiye 8.jpg
+ 
+Aleppo after the 7.8 magnitude earthquake centered in Türkiye 7.jpg
+Foreign casualties
+Foreign casualties by country
+Country	Deaths in	Ref.
+Turkey	Syria
+ Syria	4,331		[202]
+ Afghanistan	300	—	[248]
+ Haiti	85	—	[249]
+ Palestine	54	51[c]	[252]
+ Northern Cyprus[d]	29	—	[253][254]
+ Yemen	29	—	[255][256]
+ Morocco	20	—	[257]
+ Lebanon	16	3	[258]
+ Iraq	13	—	[259]
+ Azerbaijan	10	—	[260]
+ France	8	—	[261]
+ Italy	7	—	[262][263]
+ Iran	6	—	[264]
+ Philippines	6	—	[265][266]
+ Georgia	5	—	[267]
+ Ukraine	5	—	[268]
+ Indonesia	4	—	[269][270]
+ Netherlands	4	—	[271]
+ Russia	4	—	[272]
+ Uzbekistan	4	—	[273]
+ Australia	3	—	[274]
+ Egypt	3	—	[275]
+ Moldova	3	—	[276]
+ United States	3	—	[277]
+ Algeria	2	—	[278]
+ Austria	2	—	[279]
+ Greece	2	—	[280]
+ Kazakhstan	2	—	[281]
+ Belarus	1	—	[282]
+ Belgium	1	—	[283]
+ Bosnia and Herzegovina	1	—	[284]
+ Bulgaria	1	—	[285]
+ Cameroon	1	—	[286]
+ Canada	1	—	[287]
+ China	1	—	[288]
+ Colombia	1	—	[289]
+ Czech Republic	1	—	[290]
+ Ghana	1	–	[291]
+ India	1	—	[292]
+ Jordan	1	—	[293]
+ Kyrgyzstan	1	—	[294]
+ Saudi Arabia	1	—	[293]
+ Serbia	1	—	[295]
+ Sri Lanka	1	—	[296]
+ Sudan	1	—	[293]
+ Thailand	1	—	[297]
+ Uganda	1	—	[298]
+At least 4,331 Syrians residing in Turkey were killed.[202] According to Turkey's Presidency of Migration Management 1.75 million Syrians live in southern Turkey; 460,150 in Gaziantep; 354,000 in Antakya; 368,000 in Şanlıurfa; 250,000 in Adana. Turkey's health ministry returned the bodies of 1,793 Syrian victims to their relatives in Syria,[299] while thousands of Syrians were buried in Turkey due to difficulties transporting them to Syria.[300] At least 11 Iraqi war refugees died in Turkey.[301]
+
+Most Afghans killed in Turkey were refugees who fled the country after the Taliban takeover in August 2021.[302] Among the deaths of Armenians was an entire family of three in Malatya.[258] Ten Azerbaijanis were killed in Turkey, including four students in Malatya.[303] An Italian family of six, and an entrepreneur also perished.[262][263] Nineteen students, two teachers and a parent from Northern Cyprus died when a hotel in Adiyaman collapsed.[253] Seven other Turkish Cypriots died in Hatay and Kahramanmaraş.[254]
+
+Effects in other countries
+In Lebanon, residents were awakened from their sleep. Buildings in the country shook for up to 40 seconds. In Beirut, residents fled their homes and stayed in streets or drove in their vehicles to flee from buildings. The earthquake damaged 16,200 buildings across the country, including 10,460 in Beirut and 4,000 in Tripoli.[239][304]
+
+In Ashdod, Israel, a building was evacuated after cracks were observed in a pillar,[305] and Champion Motors Tower in Bnei Brak was slightly damaged by the second earthquake.[306] In Nicosia, Cyprus, some windows cracked, and the wall of a house collapsed, damaging two nearby vehicles.[307][unreliable source?][308] Six Cuvier's beaked whales were found dead along the island's northern coast on 10 February. The Department of Fisheries and Marine Research said there was a possible link between the beaching and earthquake as these whales' echolocation system are affected by sea disturbances.[309]
+
+The European-Mediterranean Seismological Centre said shaking was felt in Armenia, Egypt, Palestine, Georgia, Greece, Iraq, Jordan, Israel, and Russia. In Iraq, minor damage occurred in some houses and buildings in Erbil, and the city's citadel was severely damaged.[310][311] In Egypt, tremors were strongly felt in the capital Cairo,[312] and is considered the strongest earthquake felt since 1975.[313] A 20 m (66 ft) crack appeared in the Corniche in Alexandria.[314]
+
+Aftershocks
+On 20 February, a Mww 6.3 aftershock struck near Antakya,[49] causing additional buildings to collapse in Samandağ and further damage in Antakya.[315] Eight people died in Antakya, Defne and Samandağ.[316][317] At least 562 were injured including 18 in serious condition who received immediate medical attention before being taken to Adana and Dörtyol.[318][319] AFAD warned residents to stay away from the coast as there was potential for a tsunami of up to 50 cm (20 in).[320] The mayor of Hatay said several people were trapped under debris. A bridge was damaged and an empty three-story building in İskenderun collapsed.[321][322] In Syria, five people died during stampedes and panic across several governates and at least 500 people were injured.[323][324] The White Helmets said people in Aleppo and Idlib were injured by collapsed buildings.[315] Some residents in Jinderis were injured after leaping off buildings. In northwestern Syria, damaged and abandoned buildings collapsed without casualties.[325] Shaking was felt in Lebanon, Egypt and Jordan.[326]
+
+A Mww 5.2 aftershock occurred on 27 February, near Yeşilyurt.[327] It collapsed about 30 buildings in the town.[328] Two people died and 140 others were injured; 12 in serious condition.[329] One fatality and four injuries were attributed to a factory collapse in Kahramanmaraş Province.[330]
+
+Estimations of losses
+The USGS Prompt Assessment of Global Earthquakes for Response (PAGER) service estimated a 35 percent probability of economic losses between US$10 billion and US$100 billion. There was a 34 percent probability of economic losses exceeding US$100 billion. The service estimated a 36 percent probability of deaths between 10,000 and 100,000; 26 percent probability of deaths exceeding 100,000.[331] For the second large earthquake, there was a 46 percent probability of deaths between 1,000 and 10,000; 30 percent probability of deaths between 100 and 1,000. The service also estimated a 35 percent percent probability of economic losses between US$1 billion and US$10 billion; 27 percent probability of economic losses between US$10 billion and US$100 billion.[332]
+
+Risklayer estimated a death toll of between 23,284 and 105,671.[333] According to geophysics professor, Övgün Ahmet Ercan, "180,000 people or more may be trapped under the rubble, nearly all of them dead."[334] On 11 February, when the death toll was reported at about 28,000, United Nations emergency relief coordinator Martin Griffiths said the death toll was expected to "more than double".[335][336][337] The World Health Organization said up to 26 million people may have been affected; 15 million in Turkey and 11 million in Syria.[338]
+
+Shortly after the earthquakes the Turkish lira value struck a record low of 18.85 against the US dollar, but rebounded to its starting position at the end of the day.[339] Turkish stock markets fell; main equities benchmark fell as much as 5 percent and banks fell 5.5 percent but recovered from the losses. The country's main stock market dropped 1.35 percent on 6 February.[340] The Borsa Istanbul fell 8.6 percent on 7 February, and declined by more than 7 percent on the morning of 8 February before trading was suspended;[341] the exchange then announced it would close for five days.[342][needs update] Total costs of the earthquake damage in Turkey was estimated by the TÜRKONFED organization to be $84.1 billion US dollars; $70.75 billion on rebuilding, $10.4 billion loss in national income, and an additional $2.91 billion loss in workforce.[343] Turkish president Recep Tayyip Erdogan said rebuilding would cost $105 billion.[344] The European Bank for Reconstruction and Development said potential losses of up to 1 percent of Turkey's GDP in 2023 could result.[345] About half of residential property in the affected area is thought to be covered by Compulsory Earthquake Insurance.[346] The United Nations Development Programme estimated between 116 million and 210 million tons of debris must be cleared in Turkey.[347]
+
+In Syria, the World Bank estimated $5.1 billion worth of damages, excluding economic impact and losses. Nearly half that cost was direct damage to residential buildings and 18 percent on infrastructure.[19] Aleppo Governate, the worst-affected governate, accounted for 45 percent of the damage cost (equivalent to about $2.3 billion),[348] followed by Idlib and Lattakia governates. The amount of destroyed or damaged capital stock is about 10 percent of Syria's GDP.[19] The World Bank also said that the reconstruction in Syria costs about $7.9 billion, additionally the economy may contract by as high as 5.5 percent on 2023.[349]
+
+Aftermath in Turkey
+See also: Architecture of Turkey § Earthquakes
+
+Rescue work at the destroyed Galeria Business Center in Diyarbakır. One of the buildings in the background later collapsed following an aftershock.
+In the immediate aftermath, thousands were trapped under rubble when buildings collapsed.[96] Many people were missing in collapsed buildings.[350] Survivors trapped under rubble livestreamed their pleas for help on social media.[351] Some trapped survivors shared their location on social media which allowed rescuers to reach them.[352] People who lost contact with their relatives also sent pleas on social media.[353] Several tens of thousands of people across the region were left homeless and spent the night in cold weather. Officials had plans to open hotels in Antalya, Alanya and Mersin to temporarily accommodate the affected population.[354] Authorities were slammed by residents in Hatay Province, who criticized the insufficient search and rescue efforts. Hatay Airport's runway was heavily damaged, making rescue efforts challenging. On 7 February, authorities said 1,846 people in the province have been rescued.[355]
+
+
+Ukrainian search and rescue team in Hatay
+Mosques in Turkey were used as shelters for people unable to return to their homes amid freezing temperatures.[356] In Gaziantep, people sought refuge in shopping malls, stadiums, community centers, and mosques.[357] Nearly 250,000 displaced persons resided in schools across Malatya Province. At least 24 mobile kitchens from vocational schools in the province were distributed across the affected areas.[358][unreliable source?]
+
+Several Turkish humanitarian institutions such as Ahbap from Haluk Levent,[359][360] the Turkish Philanthropy Funds (US-based),[361] and Turkish Red Crescent (besides other IFRC members around the world)[362] also launched emergency appeals to help the victims.
+
+Turkish Airlines said it would provide free flights from the provinces of Adana, Adıyaman, Gaziantep, Kayseri, Diyarbakır, Şanlıurfa, Malatya, Elazığ and Kahramanmaraş. The Disaster and Emergency Management Authority opened an invitation for citizen volunteers to help with rescue efforts in the affected area. Thousands of volunteers arrived at Istanbul Airport. Bilal Ekşi, CEO of Turkish Airlines, said it has flown 11,780 volunteers on 80 flights to Adana, Gaziantep, Adiyaman and Şanlıurfa.[363][unreliable source?] Pegasus Airlines said it evacuated 30,771 people from the affected area on 169 flights between 6 and 9 February.[364] Between 6 and 11 February, Turkish Airlines said it evacuated 139,438 people from the affected area on 790 flights. It carried 7,833 members of search and rescue and aid groups to the affected area on 1,595 flights.[365]
+
+
+President's national mourning decision
+Search and rescue
+President Recep Tayyip Erdoğan said on Twitter, "search and rescue teams were immediately dispatched" to the affected area. Interior Minister Süleyman Soylu urged residents to refrain from entering damaged buildings.[366] On 7 February, President Erdoğan declared a 3-month state of emergency in the 10 affected provinces: Adana, Hatay, Osmaniye, Kahramanmaraş, Gaziantep, Kilis, Şanlıurfa, Adıyaman, Malatya and Diyarbakır.[354]
+
+The national government declared a level four alert to appeal for international aid.[367] According to the Disaster and Emergency Management Presidency, 25,000 search and rescue personnel were dispatched to the 10 affected provinces.[368][369] At least 70 countries offered to help in search and rescue operations.[354]
+
+Emergency services in Turkey rushed to search for survivors trapped under many collapsed buildings. By 8 February, more than 8,000 people were rescued from rubble across 10 provinces.[357][370] About 380,000 individuals have taken refuge at relief shelters or hotels.[355]
+
+An "air aid corridor" was established by the Turkish Armed Forces to mobilize search and rescue teams. Many military aircraft including an Airbus A400M and C-130 Hercules planes transported search and rescue teams and vehicles to the area. Food, blankets and psychological teams were also sent.[371] Turkey sent an official request to NATO and allies for assistance.[372]
+
+Over 53,000 Turkish emergency workers were deployed to the regions affected from the earthquakes.[373] A team of 90 miners from Soma arrived at Osmaniye to provide assistance. The Izmir Metropolitan Municipality also sent dozens of vehicles and equipment.[374]
+
+Poor weather conditions including snow, rain and freezing temperatures disrupted search and rescue efforts undertaken by rescue workers and civilians. Rescuers and volunteers wore winter clothing while searching for survivors.[375] Damaged roads also slowed down aid delivery.[376]
+
+On 8 February, Erdoğan visited the town of Pazarcık, Kahramanmaraş Province and Hatay Province.[342] He acknowledged "shortcomings" in the response to the earthquake, but denied that there was an insufficient number of personnel involved in rescue operations.[342] He also described people saying they hadn't seen security forces at all in some areas as "provocateurs".[377]
+
+AFAD announced on 19 February that search and rescue efforts in most of the affected provinces had ceased.[378] The chairperson of AFAD, Yunus Sezer, said efforts would largely be discontinued by the night of 19 February.[379] Operations were still ongoing for 40 buildings in Kahramanmaraş and Hatay provinces by 19 February.[380][381]
+
+Government assistance
+
+Relief center at Hatay Stadium
+The government said it would pay compensation to those who have lost their homes.[382] President Erdoğan said ₺15,000 in relocation assistance per household would be given to those whose homes were moderate, heavy or total destruction. Rent assistance of up to ₺5,000 would be given to homeowners and ₺2,000 to tenants.[383]
+
+On 9 February, after touring the city of Gaziantep, Erdoğan promised to rebuild destroyed homes of survivors within one year.[220] He also said the government is working on temporary accommodation for those made homeless.[220] That same day, force majeure was imposed in the affected region and tax obligations between 6 February and 31 July 2023, were postponed until 31 July 2023.[384]
+
+On 10 February, while touring Adıyaman Province, President Erdoğan reiterated the promise to rebuild all homes within one year, and added that the government will subsidize rents for those unwilling to stay in tents.[385] He later added that more than 141,000 rescue personnel, including foreign teams, were working in the 10 affected provinces, that 100 billion lira (US$5.3 billion) were allocated to the disaster response.[382] On 22 February, the Turkish government announced plans to construct 200,000 homes in the 11 affected provinces and a further 70,000 in villages.[386]
+
+Over 1.9 million people were rehoused in dormitories, guest houses, tents, hotels and containers.[387] AFAD issued a statement on 16 February, detailing that 387,000 tents had been established in the affected area by local and international organizations. President Erdoğan said 890,000 survivors were placed in dormitories and 50,000 in hotels. He added that 1.6 million people had access to shelter.[388] Across the affected region, 162 container cities were established.[387] The Governor of Şırnak, Osman Bilgin, said the district would be demolished and reconstructed.[389]
+
+Incidents
+In the morning of 7 February, Turkey accused the People's Defense Units of having overseen an MRL attack on its border checkpoint, and that the Turkish army has responded with further attacks.[390][391] The Kurdish Red Crescent[392] and Kamal Sido from the Society for Threatened Peoples later accused Turkey of airstrikes against the Kurdish population around Tell Rifaat also after the earthquake. Sido demanded from Turkey to open the borders to Syria for humanitarian aid just as they were open for Islamists.[393]
+
+The Kurdistan Workers' Party (PKK) declared a ceasefire in its conflict with Turkey.[385] Co-founder of the PKK, Cemîl Bayik, said "thousands of our people are under the rubble" and pushed for the focus on recovery efforts. He requested for all groups engaged to stop military actions and added that the PKK would not be engaged "as long as the Turkish state does not attack".[394]
+
+On 9 February, three inmates were killed and 12 more injured after soldiers opened fire during a prison riot in Hatay. The prisoners were demanding to see their families affected by the earthquake.[395]
+
+On 11 February, German and Austrian rescuers deployed to Hatay suspended operations, citing a worsening security situation due to the slow arrival of aid or sporadic clashes between armed groups.[396][397] The teams later resumed operations when the Turkish Land Forces provided protection.[398] On 12 February, rescuers from the Israeli search-and-rescue group United Hatzalah left Turkey, citing "intelligence of a concrete and immediate threat on the Israeli delegation".[399][400]
+
+On 17 February, a Syrian family of seven, including five children, were killed during a fire that struck a home in Nurdağı, Turkey, in which they moved to after surviving the earthquake. Seven other people were injured during the fire.[401] A natural gas explosion at a building in Şanlıurfa on 20 February killed two, left five injured and damaged businesses. Şanlıurfa's governor, Salih Ayhan, said due to the earthquakes, gas supply to the city was cut and an investigation was ongoing.[402] A bus ferrying earthquake survivors from Hatay to Konya collided with a truck on the Tarsus-Adana-Gaziantep Motorway on 23 February, killing two and injuring six.[403]
+
+Floods
+Main article: 2023 Turkish floods
+
+Flooding in Şanlıurfa
+Floods which struck the provinces of Adıyaman and Şanlıurfa in March killed at least 14 people. On March 15, Turkey's interior minister Suleyman Soylu said five people were missing. The floods swept away cars, affected homes and campsites housing earthquake survivors. Twelve people, including five Syrians, died in Şanlıurfa. An intensive care unit in a hospital in the province was evacuated. In Adıyaman, two drowning deaths occurred when floodwaters swept away a container home with a family. Over a dozen professional divers participated in search and rescue efforts in each province.[404]
+
+2023 elections
+Further information: 2023 Turkish presidential election and 2023 Turkish general election
+Before the earthquake, the government had planned the elections to be held on 14 May 2023, a month earlier than its latest possible date as a snap election.[405] After the earthquake, doubts arose if elections could be held on schedule. On 13 February, Bülent Arınç of the AKP demanded the elections be postponed despite the constitution disallowing such a possibility in the absence of war. Arınç's declaration has been criticized by media outlets and politicians.[405] It remains to be seen whether the governing coalition, with its 333 seats in parliament, can surpass the 400-number hurdle needed to pass such proposals by changing the constitution.[406] On 18 February, AKP authorities stated that the elections would not be delayed.[407]
+
+Kemal Kılıçdaroğlu of the CHP opposed its postponement on constitutional grounds. Mustafa Tolga Öztürk, YSK member of the İYİ party stated that YSK does not have any power to postpone an election and only parliament has the right to do so, adding that Turkey had no more time to lose with the AKP. Selahattin Demirtaş of the Peoples Democratic Party (HDP) has described the postponement as a political coup. The declaration of state of emergency in the affected regions was also interpreted as a possible measure to postpone elections.[405] Nevertheless, the earthquake led to the main anti-Erdoğan coalition postponing its 13 February meeting for the selection of its consensus presidential candidate.[406]
+
+Education
+On 9 February, the Council of Higher Education said education and training at universities in the affected provinces would be suspended until further notice.[408] Student hostels managed by the General Directorate of Higher Education Credit and Hostels would be used to house affected individuals.[409] The minister of national education, Mahmut Özer, ordered a week-long closure of all schools in the country,[410] which was later extended to two weeks.[220] Schools in the affected provinces were suspended until 10 March.[411] Students studying in schools located in the affected provinces would be transferred to other provinces of their choice.[412]
+
+Sports
+After the earthquake, Süper Lig was suspended for over a week to mourn the victims. Clubs from affected regions: Süper Lig clubs Hatayspor,[413] Gaziantep FK, TFF First League club Yeni Malatyaspor,[414] Adanaspor, TFF Second League club Adıyaman FK [tr], Diyarbekirspor and TFF Third League clubs Kahramanmaraşspor, Osmaniyespor FK [tr] and Malatya Arguvan SK [tr] withdrew from competition. Sivas Belediyespor, Tarsus İdman Yurdu and Niğde Anadolu requested to withdraw but TFF did not approve their requests.[415]
+
+On 6 February, it was announced the 2023 ISF World School Winter Games, which were due to be held in Erzurum, were canceled due to the 'force majeure' situation in the country.[416] On 10 February, it was announced the 2023 Men's EuroHockey Indoor Club Cup was canceled due to the impact of the earthquake. The tournament was intended to be held from 17 to 19 February in Alanya.[417][418] In an official statement, Minister of Youth and Sports Mehmet Kasapoğlu announced that every national championship would be suspended with immediate effect, until further communications.[419][420]
+
+All 39 members of Northern Cypriot school Türk Maarif Koleji's high school volleyball team including players, teachers, parents and a trainer died in the collapse a hotel in Adıyaman.[421]
+
+Three players from Iran's national football team for the disabled died in Turkey.[422] Hatayspor's Ghanaian winger Christian Atsu died in the collapse of Rönesans Rezidans in Antakya. His body was found on the morning of 18 February.[423][424] Atsu was a former Chelsea, Newcastle, Bournemouth and Everton player.[425] He died when the building he resided in collapsed.[426] Basketball player Nilay Aydogan died in Malatya.[427]
+
+In the first game of the Super Lig after the earthquake between Fenerbahce Istanbul and Konyaspor, the fans protested the Government and shouted slogans for it to resign that even after the broadcaster of the game BeIN censored the voices of the fans, it was heard.[428] In another game of a football club from Istanbul between Besiktas and Antalyaspor the fans repeated their calls for the government to resign and threw cuddly toys onto the football field.[429]
+
+Aftermath in Syria
+See also: Foreign aid to Syria and Humanitarian response to the 2023 Turkey–Syria earthquake § Insufficient aid to affected areas in Syria
+Russian aid reaching affected residences of Aleppo, Syria
+President Bashar al-Assad held an emergency meeting with his cabinet to organize a rescue plan for the affected regions.[430] He identified Aleppo, Hama and Latakia governates as the most affected.[431] Following orders from President al-Assad, all teams of the civil defense, firefighting, health, and public construction groups were mobilized to the affected governates.[432] He also added that medical services, food and shelter were urgently needed. The Ministry of Internal Trade and Consumer Protection was ordered by President al-Assad to supply food and organize teams to distribute them. Technical teams were also on site to evaluate building conditions and evacuate residents in at-risk structures. The Ministry of Water Resources was tasked with rapidly assessing damage to dams, reservoirs and water stations, and ensuring people have access to water.[431]
+
+The Syrian government appealed to UN member states, the International Committee of the Red Cross, and other humanitarian organizations for international aid.[230] Syria also requested for aid from the European Union's European Civil Protection Mechanism, according to commissioner Janez Lenarčič.[342] The Syrian government, through its representative in the United Nations, said that it should be responsible for aid distribution in all areas of the country, including those held by the rebels. The UK government said it would deliver aid through its long-term partners, the White Helmets civilian defense force.[433] The US State Department said it would use its humanitarian partners on the ground.[434]
+
+The United Nations Office for the Coordination of Humanitarian Affairs said damaged roads and logistical issues prevented the mobilization of international aid across the border from Turkey. Border crossings into Turkey remained closed on 7 February. Critically injured patients were unable to enter Turkey for medical attention. There were exceptions as to which persons could cross, including individuals holding touristic residence permits who could only cross by foot.[435] The Bab al-Hawa Border Crossing was made accessible on 8 February, according to the UN.[436]
+
+Some hotels including in Latakia and Damascus offered to accommodate to survivors free of charge and ensure basic necessities. Refugees and expatriates also opened their homes as shelters for people. Al-Sham Private University started an effort to receive people. Sports facilities, events venues, university dormitories and halls were also opened to take in people. The Syria Trust for Development announced the establishment of shelters across many governorates. Volunteer groups inspected buildings for damage and distributed food items, blankets, and first aid essentials.[437]
+
+
+Debris removal in Aleppo, Syria
+Due to the high number of casualties, including trauma cases, many hospitals became overcrowded. Hospitals were already experiencing a shortage of medical supplies prior to the earthquake. Hospitals in many cities were forced to operate far beyond capacity. Many patients at hospitals slept on floors due to the lack of beds. The Ministry of Health dispatched medical convoys from the Health Directorates of Damascus, Rif Dimashq Governorate, Quneitra, Homs, and Tartus, to Aleppo and Latakia to rebel-held areas. Twenty-eight ambulances, seven mobile clinics, and four trucks carrying medical, surgical and emergency aid were also dispatched.[438] Local charities across the country, which typically distribute food during the month of Ramadan, have been exhausted to their fullest capacity. One of these charities, Saed Initiative, planned to establish a charity kitchen to provide free meals for the rest of the year. Between 2,500 and 4,000 meals were distributed every day in Aleppo, and the charity plans to distribute up to 40,000 meals every day. Another charity in the city, the al-Bir and al-Ihsan charity, provided 1,500 meals every day.[439]
+
+Over 2,000 Syria Civil Defense (White Helmets) volunteers were sent to all the affected areas to conduct search and rescue efforts. With a lack of equipment and tools, they appealed to other humanitarian organizations for support.[438] Officials on 7 February announced rescue and recovery efforts in Hama ended after 15 hours.[219] Over 298,000 people were left without homes and 180 shelters were opened in government-held areas.[440] About 30,000 people were housed in shelters in Aleppo.[237] As of 10 February, no international rescue workers had arrived in rebel-held Jinderis despite official calls for help.[441]
+
+United States sanctions against Syria relating to the blocking of banks and payment processors led to the banning of international charities and families attempting to send money to people affected in Syria.[442][better source needed] On 7 February 2023, the Syrian Arab Red Crescent urged Western countries to lift sanctions against Syria, saying the measures hurt civilians and humanitarian efforts during the earthquake recovery effort.[443] The sanctions are a series of economic measures taken by the European Union, the United States, Canada, Australia, Switzerland, and the Arab League from the start of the civil war in 2011. They include an oil embargo and the freezing of financial assets of the state and government officials.[444][445] There were requests to lift or suspend the sanctions to aid humanitarian efforts following the earthquake.[446][447] On 10 February, the United States announced it would exempt sanctions against Syria for 180 days. The ease of sanctions was for "all transactions related to earthquake relief efforts", according to the United States Department of the Treasury.[448] The Syrian Ministry responded in a statement that the US' decision was "misleading and aims to give a false humanitarian impression" and that "the facts on the ground proved its falsehood."[449][450] Some commentators have argued that the sanctions do not pose a problem for the delivery of humanitarian aid to Syria.[451]
+
+International humanitarian assistance began entering northwestern Syria on 9 February via Turkey through the Bab al-Hawa Border Crossing. The first convoy of six trucks carried tents and sanitary items. Turkey said it was working to open two additional border crossings.[452] On 10 February, 14 trucks carrying aid crossed from Turkey into Syria, according to the United Nations.[453] The United States Central Command announced it would cooperate with Syrian Democratic Forces to assist the affected population in Syria.[454] On 11 February, World Health Organization director-general Tedros Adhanom Ghebreyesus visited Aleppo, accompanying a shipment of emergency medical supplies.[455] On 12 February, all schools across Syria, except for those in the affected areas, were resumed since the earthquakes struck. Schools in Aleppo, Lattakia, Hama and Idleb remained closed.[456] On 14 February, the Syrian government agreed to open the border crossings at Bab al-Salam and al Raée for three months.[457]
+
+President al-Assad met UN relief chief Martin Griffiths met on 21 March to discuss post-earthquake recovery and aid.[458]
+
+International humanitarian efforts
+
+Iranian and Iraqi truck removing debris in Aleppo, Syria
+Countries
+This paragraph is an excerpt from Humanitarian response to the 2023 Turkey–Syria earthquake.[edit]
+Various countries and organizations have responded to the earthquake. At least 105 countries and 16 international organizations pledged support for victims of the earthquake, including humanitarian aid.[459] More than eleven countries provided teams with search and rescue dogs to locate victims under the debris[460] and monetary support was offered as well.[461][462][463]
+This section is transcluded from Humanitarian response to the 2023 Turkey–Syria earthquake. (edit | history)
+Arab League
+Arab League secretary-general Ahmed Aboul Gheit called for international assistance to help those affected by "this humanitarian catastrophe".[464]
+
+ASEAN
+ASEAN country secretariat expresses its heartfelt sympathies and condolences to the Governments and peoples of the affected countries, especially the families of the victims of the earthquake. ASEAN affirms its solidarity with the Governments and peoples of Turkiye and Syria in these trying times and stands ready to extend its assistance to the relief efforts.[465]
+
+European Union (EU)
+The European Union's European Civil Protection Mechanism, in which Turkey participates despite not being a member of the EU, was activated at the request of Turkey.[466] The EU dispatched thirty-one rescue teams and five medical teams from 23 member states to Turkey, committed €3 million and €3.5 million to Turkey and Syria respectively, and announced a donor conference to raise money.[467] The Copernicus Programme was also activated to provide emergency mapping services and other help.[464]
+
+North Atlantic Treaty Organization (NATO)
+NATO secretary-general Jens Stoltenberg said that member countries were mobilizing support.[468][469] The Strategic Airlift Capability was used to transport search and rescue equipment.[470] NATO deployed "fully equipped semi-permanent shelter facilities" to house displaced persons in Turkey.[471] Flags at NATO headquarters were also lowered to half-mast.[472] A vessel carrying the first 600 of 1,000 containers for temporary housing left Taranto, Italy for Turkey to accommodate at least 4,000 people.[473]
+
+United Nations (UN)
+Several United Nations agencies announced coordinated responses to the disaster, including UNDAC, OCHA, UNHCR, UNICEF and IOM.[474] The World Health Organization's Regional Director for Europe, Hans Kluge, said the organization's regional offices were assisting international efforts to transport medicine and relief equipment.[464][475] The UN released $25 million from its emergency fund for humanitarian assistance in Turkey and Syria.[476] A second $25 million grant was released for relief efforts in Syria.[385] UN sent humanitarian aid to Syria through Turkey via the Bab al-Hawa border crossing.[477] On 14 February, the UN appealed for €396 million to help survivors in Syria.[478]
+
+World Bank
+The World Bank said it would provide US$1.78 billion in aid for Turkey to support the relief and recovery process.[479] "We are providing immediate assistance and preparing a rapid assessment of the urgent and massive needs on the ground," said World Bank President David Malpass.[480]
+
+Reactions
+Criticism of the Turkish government
+See also: Construction amnesty and Seismic code
+
+Murat Kurum, Minister of Environment, Urbanization and Climate Change at an AFAD press conference
+
+Destroyed buildings in Hatay
+The Turkish Government was criticized on social media for allegedly trying to cover up the fact that there were not two, but three mainshocks above Mw 7. However, professor Hasan Sözbilir, Director of Dokuz Eylül University (DEU) Earthquake Research and Application Center, told Anadolu Agency that there were only 2 mainshocks reaching above Mw 7 between 6 and 17 February 2023, but of the smaller quakes, there was one that reached Mw 6.7.[481] Additional allegations were made when the death toll in Turkey was at 41,000, could in fact be up to five times higher. The Justice and Development Party (AKP) government was accused of manipulating the death toll of the earthquakes to mask the scale of the disaster amid growing criticism due to what many say was a delayed and ineffective response to the tragedy.[482]
+
+The collapse of many newly constructed buildings caused public anger and doubts about the Turkish construction and contracting industry following seismic codes.[483] After the 1999 İzmit earthquake, new building codes were enacted to make buildings more resilient to earthquakes.[484] The quality of the concrete is often a factor in collapse, especially in older buildings, but the engineering and design of newer high rise buildings, and improper placement of support columns and beams, may contribute to collapse.[485] The building codes, last updated in 2018, required quality standards in engineering design, construction and material.[485] There were complaints that the building codes were poorly enforced.[484]
+
+After the earthquake, Erdoğan had claimed "98 percent of the destroyed buildings were built in before 1999" and described it "as the indicator of an improvement in the quality of building codes and enforcement".[486] Erdoğan's claim was criticized by civil engineer and earthquake engineering academic Haluk Sucuoğlu, stating that field observations and more than half of the buildings in earthquake-affected areas being built after 2000 making Erdoğan's claims unlikely, though accepting that concrete data on the destroyed buildings do not exist yet.[487] The comparison of historical satellite images with those taken after the earthquake, especially of those showing the destruction in the newly built area of western Kahramanmaraş, were used to dispute Erdoğan's claim.[488]
+
+In Adıyaman, the minister of transport and infrastructure, Adil Karaismailoğlu, and governor, Mahmut Çuhadar, were met with protests by locals. The state car of the governor was also kicked by protesters.[489] Turkish engineers previously warned that cities could become 'graveyards' with building amnesty.[490] Critics of President Erdoğan said contractors of housing projects were allowed to skip vital safety mandates which put residents at risk. Videos from several years ago showed President Erdoğan applauding housing projects which eventually collapsed. During a campaign stop in anticipation of the March 2019 local elections, he listed, among his government's top attainment, new housing in Kahramanmaras. President Erdoğan said "We solved the problem of 144,156 citizens of Maras with zoning amnesty," In another video, he said "We have solved the problems of 205,000 citizens of Hatay with zoning peace,"[491]
+
+Before the 2018 general election, 3.1 million buildings were granted amnesty certificates, according to Istanbul Metropolitan Municipality Secretary General Assistant and city planner, Bugra Gokce. In the ten affected provinces, 294,165 certificates were granted; 59,247 in Adana; 10,629 in Adıyaman; 14,719 in Diyarbakır; 40,224 in Gaziantep; 56,464 in Hatay; 39,58 in Kahramanmaraş; 4,897 in Kilis; 22,299 in Malatya; 21,107 in Osmaniye; and 25,521 in Şanlıurfa.[492] After a destructive earthquake struck İzmir in 2020, Asia Times said the Turkish government generated US$2 billion in profit since the latest zoning amnesty law was approved in May 2018. During that earthquake, there were 811,000 certificates linked to illegal construction in İzmir.[493]
+
+The leader of the opposition in Parliament, Kemal Kılıçdaroğlu of the Republican People's Party (CHP), pinned responsibility for the scale of the disaster on President Erdoğan.[377] He demanded from the CHP mayors not to back down from providing bread and blankets to people in need and reject bureaucratic blocking as they did during the COVID-19 lockdown.[494] It has also been reported that some donations from relief organizations arriving at the Adana airport were relabeled as assistance by the Disaster and Emergency Management Presidency (AFAD) or also the governing AKP.[495] Questions also arose as to how an "earthquake tax" (officially "special communications tax") levied by the Turkish government in the wake of the 1999 earthquake, estimated to have reached 88bn lira ($4.6bn; £3.8bn) and meant to have been spent on disaster prevention and the development of emergency services, were spent, given how the government has never given a public explanation.[377]
+
+Some Kurdish and Alevi residents alleged discrimination and neglect in the government's recovery efforts.[496][497] The pro-Kurdish Peoples' Democratic Party (HDP) accused Turkish authorities of preventing equal distribution of aid[498] and favoring areas inhabited majorly by people loyal to the governing AKP.[499]
+
+Disaster management
+
+Kahramanmaraş after the earthquake
+AFAD, the state organ for the disaster relief, was criticized on the grounds of slowness during the first days of the earthquake.[500] There were reports of unsuccessful attempts by people to contact AFAD.[500] Emergency management academic Kubilay Kaptan stated that the delayed reaction of AFAD was mainly caused by the increasing centralization of Turkish emergency response agencies under the current government. According to Kaptan, numerous relief agencies were merged into AFAD in the past years and since the implementation of the referendum, AFAD became part of the Ministry of Interior, losing its autonomy and self-governance. Kaptan added that the Ministry of Interior, responsible for making decisions, hindered the fast response since the organization required approval for its actions, contrasting more independent agencies like FEMA in the United States.[501] AFAD was also criticized on the claims of inappropriate board of management, since some members of the board had no disaster management background. İsmail Palakoğlu [tr], the general manager of disaster response subdivision of AFAD, is a theologian who previously worked at the Directorate of Religious Affairs, was criticized by several politicians and media outlets.[502][503][504]
+
+Another criticism was the late deployment of military resources.[500] They were not mobilized for two days after the earthquake, and even then in what many considered in very modest amounts.[505][need quotation to verify] In the past, local commanders were authorized to go into action unilaterally in the face of such a natural disaster until the current government changed the regulations.[citation needed] There were many instances where aid was forced to go through local governors, who were not elected but appointed by the government. In some instances, aid was held by the ruling party with the explanation that it would be managed by AFAD.[506] There were reports of aid trucks stopped and not let through unless ruling party placards and signs were placed on them, including stickers of the president placed on individual aid packages.[507] On 16 February the district governor of Pazarcik accompanied by the gendarmerie seized aid stored in a distribution center established jointly by the HDP and the Hasankoca Neighborhood Assistance and Solidarity Association in presence of the head of the Diyarbakır Chamber of Industry arguing they could not distribute aid independently.[498]
+
+On 9 February 2023, the governing alliance between the MHP and the AKP approved a state of emergency in 10 provinces affected by the earthquakes.[405][508] The opposition voted no to the measure, claiming that it was unnecessary since the provinces were already declared as "disaster areas".[405][508]
+
+A week after the earthquakes in Samandağ, a coastal town in Hatay Province, residents dug through the rubble to look for victims because of the slow and limited government response. "We have nothing left and the government barely helped us," one resident said, adding that assistance only came 48 hours after the earthquake.[509]
+
+Media
+NetBlocks announced that ICTA limited access to Twitter from Turkey, with Turkish government officials claiming disinformation.[510][511] According to Reuters, citing an anonymous government official, the block was necessary "because in some accounts there were untrue claims, slander, insults and posts with fraudulent purposes," The block caused public anger as Twitter assisted in sharing information on arriving aid and the whereabouts of survivors still trapped in rubble. The Peoples' Democratic Party said Twitter helped in organizing aid to the affected and the block would "only cause more death." Ali Babacan, leader of the Turkey's opposition group, Democracy and Progress Party, also criticized the block.[512]
+
+The Committee to Protect Journalists (CPJ) issued a statement critical of fines and penalties issued to Halk TV, Tele1, and Fox over their coverage of the earthquake by the Radio and Television Supreme Council. In addition to the fines, both Halk TV and TELE1 were required to suspend airing of the shows that had criticized the government for five days. The CPJ's statement said that Turkey officials should revoke both the fine and penalties along with refraining from silencing the media for its earthquake coverage.[513][514]
+
+Criminal investigation in Turkey
+
+Aerial view of collapsed buildings in Hatay Province
+On 7 February, Turkish police said they detained four people over "provocative posts aiming to create fear and panic" on social media following the earthquake. It added that a wider investigation into social media accounts was ongoing, but offered no information on the content of the posts.[515] The number of detentions increased to a dozen on 8 February.[516] Following reports of property being ransacked by looters,[517][518] authorities arrested 98 people for robbery or defrauding victims.[519] Syrians have faced increased discrimination in the country, with some Turks blaming them for the looting.[520][521][522] Amnesty International and Human Rights Watch alleged that Turkish security forces tortured and ill-treated individuals arrested on suspicion of looting. In a report from both organizations, one person died while being held by authorities. The report said allegations of torture came from 10 provinces, but most reports were in Antakya, Hatay Province.[523]
+
+On 9 February, minister of justice, Bekir Bozdağ, said a judicial investigation into the collapse of buildings was opened.[524] The probe attempts to hold accountable those who constructed the buildings or bore any responsibility for their collapse in the 10 hardest-hit provinces. Justice Minister Bekir Bozdağ said: "Those who have negligence, faults and those responsible for the destructions after the earthquake will be identified and held accountable before the judiciary".[524][525] Nearly 150 local prosecutors were authorized to establish units to investigate contractors, surveyors and other experts linked to the collapsed buildings.[526]
+
+On 11 February, Turkey's justice ministry announced the plan to establish the "Earthquake Crimes Investigation" bureaus. The bureaus aim to hold contractors and other responsible for construction, gathering evidence, recommendation experts; including architects geologists and engineers; and inspecting building permits and occupation permits.[527] Vice President Fuat Oktay said 131 individuals linked to the collapse of buildings were identified.[528]
+
+By 25 February, 612 people were investigated for their involvement in building collapses; 184 were arrested and awaiting trail. Those in jail included contractors and building owners and managers.[529] On 12 February, the Adana Chief Public Prosecutor's Office issued arrest warrants for 62 people;[530] Thirty one arrests were made on 14 February. In Malatya, city prosecutors issued arrest warrants for 31 people.[531]
+
+The Committee to Protect Journalists (CPJ) published an article on 14 February covering journalists being detained and harassed for their reporting on the earthquake in Turkey. Some of those detained were being investigated for "spreading misinformation" or for ""provoking the people into animosity and hatred" in connection with their reporting.[532]
+
+The owner of the Renaissance Residence which collapsed in Hatay Province was arrested in Istanbul while attempting to leave Turkey for Montenegro.[524] In Gaziantep Province, two people were arrested after being suspected of cutting-down columns to make extra space in a building that collapsed.[527] Bekir Bozdağ said 163 people were being investigated for their alleged involvement. Eight people were arrested and awaiting trial while 48 were held in police detention; another seven were prohibited from leaving Turkey. Officials detained two people at Istanbul Airport attempting to flee to Georgia. Among those arrested were a man and his wife who constructed several buildings in Adiyaman which collapsed. A contractor involved in developing the Bahar Apartments in Gaziantep was detained in Istanbul after his inspections were deemed negligent. The owner of a construction company which built several buildings in Adana was apprehended in Northern Cyprus.[531]
+
+The majority of buildings that collapsed in Turkey were constructed before 2000, but some were constructed after that year. Following the 1999 earthquake, building construction followed new regulations and had improved materials. Sukru Ersoy, a geology professor at Yıldız Technical University, said "corruption is high in the construction sector in Turkey. And therefore, there were abuses".[533] However, corruption was not always present in local authorities;[534] in Erzin, which has a strict policy against the construction of buildings that violated safety codes in addition to having endured other earthquakes with less damage, became a popular location for survivors elsewhere to take refuge as no collapsed buildings were reported.[535][536]
+
+National mourning
+
+Flag lowered because of national mourning
+President Erdoğan declared seven days of national mourning in Turkey on Twitter.[537][357] Seven days of national mourning was observed in Northern Cyprus, and one day in Bangladesh and Kosovo.[538][539] Albania's prime minister, Edi Rama, said 13 February would be a day of national mourning.[540] On 13 February, all overseas diplomatic missions of North Macedonia lowered the North Macedonian flags to half-mast.[541]
+
+Criticism by the Syrian government and opposition
+Syrian government officials and state-run media blamed United States and European Union sanctions against the country for the lack of humanitarian aid and hampering rescue. On 10 February, Syrian president Bashar al-Assad[542] accused Western countries of having "no regard for the human condition."[543] The US Treasury said its sanctions "contain robust exemptions for humanitarian efforts" in the first place, and that after the earthquake it issued a blanket authorization for relief efforts.[220] The United Nations has also been criticized for its policy of focusing aid shipments solely to the regime, at the expense of Syrian lives in opposition-held territories.[544]
+
+Idlib region, under the control of Syrian Salvation Government (SSG), was one of the hardest-hit territories.[545] Assad regime's policy of besieging North-West Syria; which blockades the supply of food, medicines and other humanitarian supplies, has further deteriorated the crisis in Idlib.[546] Abu Muhammad Al-Julani, commander of the SSG-aligned Tahrir al-Sham rebel militia, criticized aid agencies of neglecting the situation in Idlib and called on the international community to be more proactive in reconstruction and relief efforts, adding that the "United Nations needs to understand that it's required to help in a crisis".[547] Upon traveling to the Bab al-Hawa Border Crossing bordering the rebel-held territories, UNOCHA Under-Secretary Martin Griffith stated on 12 February that "We have so far failed the people in north-west Syria".[547] As of 13 February, Ankara and the Turkish-backed Free Syrian Army were accused of blocking aid convoys sent by the Autonomous Administration of North and East Syria from entering the north-west region.[548][549]
+
+The United Nations criticized Russia's attempts to block delivery of aid through checkpoints to rebel-held territories. Secretary General António Guterres urged the Security Council to immediately permit aid flows into Northwestern Syria.[550] United States appealed for the immediate opening of all closed checkpoints to send in relief efforts to all parts of Syria; calling for an emergency UN Security Council meeting to increase humanitarian assistance through Bab al-Hawa and open up more border crossings for the entry of UN aid.[547][550] Stéphane Dujarric, a United Nations spokesperson, said on 14 February, "some aid is getting into the north-west, pointing to 58 trucks that arrived with aid through the Bab Al-Hawa crossing." However, the organization does not possess heavy equipment or search and rescue teams. He stressed that the "international community as a whole needs to step up to get that aid where it is needed."[457]
+
+Health concerns
+Due to below-freezing temperatures in the affected areas in both Turkey and Syria, the mayor of Hatay, Lütfü Savaş, warned about the hypothermia risk.[551] In Adiyaman Province, some residents trapped under rubble died from hypothermia.[552]
+
+Concerns arose regarding the possible spread of infection in areas where sanitation facilities were damaged or unfunctional.[97] Due to water shortage experienced in both countries, many survivors could not shower. International health organizations said the shortage of clean water would be a public health risk. The World Health Organization said water shortage "increases the risk of waterborne diseases and outbreaks of communicable diseases."[553]
+
+On 18 February, Turkey's Health Minister Fahrettin Koca said there was an increase in intestinal and upper respiratory infection cases but "numbers did not pose a serious threat to public health."[97] At a stadium serving as shelter in Kahramanmaraş, a clinic managed by 15 to 30 medics attended up to 10,000 patients in the day. The clinic provided tetanus shots and sanitary items to residents. Many people at the stadium were unable to shower and the six toilets were unable to accommodate to the large number of people. In Antakya, residents said more portable toilets were needed.[553]
+
+Health authorities in Turkey had to ensure earthquake survivors were free of disease. The World Health Organization collaborated with local authorities to monitor the rates of waterborne diseases, seasonal influenza and COVID-19 among the affected.[553]

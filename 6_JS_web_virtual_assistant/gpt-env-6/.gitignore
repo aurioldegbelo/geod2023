@@ -1,6 +1,7 @@
 # Added on April 03, 2023 
 Include/
 Scripts/
+share/
 
 #Byte-compiled / optimized / DLL files
 __pycache__/

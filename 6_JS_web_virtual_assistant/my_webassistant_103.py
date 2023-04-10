@@ -9,10 +9,9 @@
 import os
 import my_api_keys
 import openai # open ai documentation at https://platform.openai.com/docs/introduction/overview
-import gradio
+import gradio as gr
 
 from llama_index import (
-    GPTKeywordTableIndex,
     GPTSimpleVectorIndex,
     SimpleDirectoryReader,
     LLMPredictor,
@@ -22,59 +21,55 @@ from llama_index import (
 )
 
 # documentation of langchain at https://github.com/hwchase17/langchain
-from langchain import OpenAI # if you want to use a model other than gpt-3.5-turbo
-
-#from langchain.chat_models import ChatOpenAI
+from langchain.chat_models import ChatOpenAI
 
 os.environ['OPENAI_API_KEY'] = my_api_keys.my_open_ai_key
-
-
-## Working with llama_index = playing around with data augmentation
-
-## Step 1: load the new data
-# documentation of llama_index at https://gpt-index.readthedocs.io/en/latest/
-# data loaders at https://llamahub.ai/
-#from llama_index import download_loader, GPTSimpleVectorIndex
-
-SimpleDirectoryReader = download_loader("SimpleDirectoryReader")
-# Take all the files in the data folder, see https://llamahub.ai/l/file
-loader = SimpleDirectoryReader('./data', recursive=True, exclude_hidden=True)
-documents = loader.load_data()
-#print(documents)
 
 my_question = "Which countries did Cyclone Freddy affect?"
 
 
+def custom_llama_index (question): 
+
+    ## Working with llama_index = playing around with data augmentation
+
+    ## Step 1: load the new data
+    # documentation of llama_index at https://gpt-index.readthedocs.io/en/latest/
+    # data loaders at https://llamahub.ai/
+    #from llama_index import download_loader, GPTSimpleVectorIndex
+
+    SimpleDirectoryReader = download_loader("SimpleDirectoryReader")
+    # Take all the files in the data folder, see https://llamahub.ai/l/file
+    loader = SimpleDirectoryReader('./data', recursive=True, exclude_hidden=True)
+    documents = loader.load_data()
+
+    ## Step 2: Build a CUSTOM llm index: code adapted from https://github.com/wombyz/custom-knowledge-chatbot/tree/main/custom-knowledge-chatbot
+    # Official documentation: https://gpt-index.readthedocs.io/en/latest/how_to/customization/custom_llms.html
+
+    # define prompt helper
+    # set maximum input size
+    max_input_size = 2048
+    # set number of output tokens
+    num_output = 256
+    # set maximum chunk overlap
+    max_chunk_overlap = 20
+    prompt_helper = PromptHelper(max_input_size, num_output, max_chunk_overlap)
+
+    # define LLM
+    llm_predictor = LLMPredictor(llm=ChatOpenAI(temperature=0.5, model_name="gpt-3.5-turbo"))  
+    service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor, prompt_helper=prompt_helper)
+
+    # build index
+    custom_index = GPTSimpleVectorIndex.from_documents(documents, service_context=service_context)
 
 
-WikipediaReader = download_loader("WikipediaReader")
-loader = WikipediaReader()
-wikidocs = loader.load_data(pages=['Cyclone Freddy'])
-wikipedia_index = GPTSimpleVectorIndex.from_documents(wikidocs)
-response = wikipedia_index.query(my_question)
-print(response)
+    ## Step 3: reuse the custom index to get some answers
+    # get response from query
+    response = custom_index.query(question)
 
-## Step 2: Build a CUSTOM llm index: code adapted from https://github.com/wombyz/custom-knowledge-chatbot/tree/main/custom-knowledge-chatbot
-# Official documentation: https://gpt-index.readthedocs.io/en/latest/how_to/customization/custom_llms.html
-
-# define prompt helper
-# set maximum input size
-max_input_size = 2048
-# set number of output tokens
-num_output = 256
-# set maximum chunk overlap
-max_chunk_overlap = 20
-prompt_helper = PromptHelper(max_input_size, num_output, max_chunk_overlap)
-
-# define LLM
-llm_predictor = LLMPredictor(llm=OpenAI(temperature=0.5, model_name="text-davinci-002")) #"gpt-3.5-turbo text-davinci-002"
-service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor, prompt_helper=prompt_helper)
-
-# build index
-custom_index = GPTSimpleVectorIndex.from_documents(documents, service_context=service_context)
+    return response 
 
 
-## Step 3: reuse the custom index to get some answers
-# get response from query
-response = custom_index.query(my_question)
-print(response)
+
+demo = gr.Interface(fn=custom_llama_index, inputs="text", outputs="text")
+
+demo.launch()
