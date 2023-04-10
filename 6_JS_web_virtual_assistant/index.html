@@ -14,13 +14,20 @@
   <body>
     <br>
     <div class="container" >
-        <textarea class="form-control w-25" id ="input-query" placeholder="Type your question here" rows="4"></textarea>
+        <textarea class="form-control w-50" id ="input-query" placeholder="Type your question here" rows="4"></textarea>
         <button type="button" id="submit-button" class="btn btn-dark btn-sm mt-2">Submit</button>
     </div>
 
     <div class="container" >
         <br>
-        <textarea class="form-control w-25" id = "result-display" placeholder="The answer will be displayed here" rows="7"></textarea>
+        <textarea class="form-control w-50" id = "result-display" placeholder="The answer will be displayed here" rows="7"></textarea>
+    </div>
+
+    <p id = "metadata-display" class = "mt-2" hidden>An invisible div element:</p>
+
+    <div class="container" >
+        <br>
+        <textarea class="form-control w-50" id = "metadata-display"  rows="7"></textarea>
     </div>
   
     <script>
@@ -28,6 +35,7 @@
    // input_area = document.getElementById("input-query")
     submit_button =  document.getElementById("submit-button")
     display_area = document.getElementById("result-display")
+    metadata_area = document.getElementById("metadata-display")
 
     submit_button.addEventListener("click", async function()
     {
@@ -53,18 +61,17 @@
             });
             const answer = await response.json()
 
-            console.log(answer)
-
             console.log(answer.data[0].toString())
             console.log(answer.duration)
             console.log(answer.average_duration)
             console.log(answer.is_generating)
 
+            display_area.value = answer.data[0].toString()
 
-
-
-            display_area.value = JSON.stringify(answer)
-
+            metadata = `Duration: ${answer.duration}; Average duration: ${answer.average_duration}; is_generating: ${answer.is_generating}  `
+            metadata_area.innerHTML = metadata
+            metadata_area.hidden = false
+        
 
         }
 
