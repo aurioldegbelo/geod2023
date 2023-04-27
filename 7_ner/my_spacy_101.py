@@ -45,7 +45,7 @@ for doc in nlp.pipe(TEXTS):
             elif token.dep_ == "pobj" and token.head.dep_ == "prep":
                 print(token.head.head, "-->", token)
 
-                '''
+'''
 
 nlp = spacy.load("en_core_web_md")
 tokens = nlp("dog cat banana afskfsd")
