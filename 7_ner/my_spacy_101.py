@@ -53,4 +53,15 @@ tokens = nlp("dog cat banana afskfsd")
 for token in tokens:
     print(token.text, token.has_vector, token.vector_norm, token.is_oov)
 
-print(tokens[0].text, tokens[0].vector)
+
+doc1 = nlp("I like salty fries and hamburgers.")
+doc2 = nlp("Fast food tastes very good.")
+
+# Similarity of two documents
+print(doc1, "<->", doc2, doc1.similarity(doc2))
+# Similarity of tokens and spans
+french_fries = doc1[2:4]
+burgers = doc1[5]
+print(french_fries, "<->", burgers, french_fries.similarity(burgers))
+
+#print(tokens[0].text, tokens[0].vector)
