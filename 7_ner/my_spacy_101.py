@@ -52,3 +52,5 @@ tokens = nlp("dog cat banana afskfsd")
 
 for token in tokens:
     print(token.text, token.has_vector, token.vector_norm, token.is_oov)
+
+print(tokens[0].text, tokens[0].vector)
