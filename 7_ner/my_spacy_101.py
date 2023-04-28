@@ -50,6 +50,11 @@ for doc in nlp.pipe(TEXTS):
 nlp = spacy.load("en_core_web_md")
 tokens = nlp("dog cat banana afskfsd")
 
+print(nlp.get_pipe('ner').labels)
+
+
+
+'''
 for token in tokens:
     print(token.text, token.has_vector, token.vector_norm, token.is_oov)
 
@@ -65,3 +70,13 @@ burgers = doc1[5]
 print(french_fries, "<->", burgers, french_fries.similarity(burgers))
 
 #print(tokens[0].text, tokens[0].vector)
+
+
+text = "It’s official: Apple is the first U.S. public company to reach a $1 trillion market value"
+
+# Process the text
+doc = nlp(text)
+
+# Print the document text
+print(doc.text)
+'''
