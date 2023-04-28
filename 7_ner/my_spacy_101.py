@@ -50,6 +50,11 @@ for doc in nlp.pipe(TEXTS):
 nlp = spacy.load("en_core_web_md")
 tokens = nlp("dog cat banana afskfsd")
 
+
+
+'''
+
+# Loading different models and doing named entity recognition
 print("----------------------------------")
 # https://spacy.io/models/en
 print("List of labels available for ner in English")
@@ -83,6 +88,7 @@ for token_de in doc_de.ents:
     # Print the entity text and label
     print(token_de.text, token_de.label, token_de.label_)
 
+'''
 
 
 '''
