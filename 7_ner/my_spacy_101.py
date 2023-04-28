@@ -50,7 +50,21 @@ for doc in nlp.pipe(TEXTS):
 nlp = spacy.load("en_core_web_md")
 tokens = nlp("dog cat banana afskfsd")
 
-print(nlp.get_pipe('ner').labels)
+print("----------------------------------")
+# https://spacy.io/models/en
+print("List of labels available for ner in English")
+nlp_en = spacy.load("en_core_web_sm")
+ner_en_labels = nlp_en.get_pipe('ner').labels
+for label in ner_en_labels: 
+    print(label, spacy.explain(label))
+
+print("----------------------------------")
+# https://spacy.io/models/de
+print("List of labels available for ner in German")
+nlp_de = spacy.load('de_core_news_sm')
+ner_de_labels = nlp_de.get_pipe('ner').labels
+for label in ner_de_labels: 
+    print(label, spacy.explain(label))
 
 
 
