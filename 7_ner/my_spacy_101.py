@@ -67,17 +67,18 @@ for label in ner_de_labels:
     print(label, spacy.explain(label))
 
 
-text = "Dresden is the capital city of the German state of Saxony and its second most populous city after Leipzig."
+text_en = "Dresden is the capital city of the German state of Saxony and its second most populous city after Leipzig.  It is the 12th most populous city of Germany, the fourth largest by area (after Berlin, Hamburg and Cologne), and the third most populous city in the area of former East Germany, after Berlin and Leipzig. Dresden's urban area comprises the towns of Freital, Pirna, Radebeul, Meissen, Coswig, Radeberg and Heidenau and has around 790,000 inhabitants.[3] The Dresden metropolitan area has approximately 1.34 million inhabitants"
 
-doc_en = nlp_en(text)
+# create a document based on the current model
+doc_en = nlp_en(text_en) 
 
 for token_en in doc_en.ents:
     # Print the entity text and label
     print(token_en.text, token_en.label, token_en.label_)
 
 
-text = "Dresden ist die Landeshauptstadt des Freistaates Sachsen und östlichste Großstadt Deutschlands. Mit 555.351 Einwohnern ist Dresden, nach Leipzig, die zweitgrößte sächsische Kommune und der Einwohnerzahl nach zwölftgrößte Stadt Deutschlands."
-doc_de = nlp_de(text)
+text_de = "Dresden ist die Landeshauptstadt des Freistaates Sachsen und östlichste Großstadt Deutschlands. Mit 555.351 Einwohnern ist Dresden, nach Leipzig, die zweitgrößte sächsische Kommune und der Einwohnerzahl nach zwölftgrößte Stadt Deutschlands."
+doc_de = nlp_de(text_de)
 for token_de in doc_de.ents:
     # Print the entity text and label
     print(token_de.text, token_de.label, token_de.label_)
