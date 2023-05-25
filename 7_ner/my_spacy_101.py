@@ -117,7 +117,16 @@ doc = nlp(text)
 # Print the document text
 print(doc.text)
 '''
-u = 3
 
-print("The difference is", u )
 
+#import spacy
+from spacy import displacy
+nlp = spacy.load("en_core_web_sm")
+
+example_text = (
+     "Dresden is a city located in Saxony, Germany."
+)
+example_doc = nlp(example_text)
+print(spacy.explain("attr"))
+
+#displacy.serve(example_doc, style="dep")
