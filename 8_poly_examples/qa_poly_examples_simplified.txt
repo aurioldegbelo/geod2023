@@ -1,0 +1,14 @@
+Q: What is the polygon geometry of Bayern?
+A: The polygon geometry of Bayern is "[10.453980128926366, 47.55557895879648]"
+
+
+Q: What is the polygon geometry of Berlin?
+A: The polygon geometry of Berlin is "[13.47551255018283, 52.66878186491734]"
+
+
+Q: What is the polygon geometry of Saxony?
+A: The polygon geometry of Saxony is "[[12.84598482873569, 51.68354157234848]]"
+
+
+Q: What is the polygon geometry of GreatLand
+A: The polygon geometry of Saxony is GreatLandGeometry
