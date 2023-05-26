@@ -1,0 +1,14 @@
+Q: What is the polygon geometry of Bayern?
+A: The polygon geometry of Bayern is BABA
+
+
+Q: What is the polygon geometry of Berlin?
+A: The polygon geometry of Berlin is BEBE
+
+
+Q: What is the polygon geometry of Saxony?
+A: The polygon geometry of Saxony is SASA
+
+
+Q: What is the polygon geometry of GreatLand
+A: The polygon geometry of Saxony is GREGRE
